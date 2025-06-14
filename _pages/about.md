@@ -13,9 +13,7 @@ University of Stuttgart, Germany
 My research focuses on the following areas:  
 * **Large Language Models**: Agent System, Task Automation, Tool Using, Assistant System for Specialized Tasks.  
 * **Digital Twins**: Software-as-a-Service (SaaS), Simulation, System Modeling, Software Modeling, Semantic Modeling, Model-driven Software Development
-* **Autiomation System**: Industrial Automation System, Robotics System, Automotive System. 
-
-Feel free to reach out via e-mail at yuchen.xia@ias.uni-stuttgart.de.
+* **Autiomation System**: Industrial Automation System, Robotics System, Automotive System.  
 
 ---
 ## Academic Journey
