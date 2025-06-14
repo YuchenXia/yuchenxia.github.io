@@ -34,7 +34,7 @@ Feel free to reach out via e-mail at yuchen.xia@ias.uni-stuttgart.de.
 * Sep 13 2024 – Awarded **🏆Best-Paper ETFA 2024** for research paper LLM Experiments with Simulation: Multi-Agent System for Simulation Model Parameterization in Digital Twins.
 
 ---
-## Publications <small>(also see <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="\_blank">Google Scholar</a>)</small>
+## <span id="publications">Publications</span> <small>(also see <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="\_blank">Google Scholar</a>)</small>
 
 | Title                                                                                                                                        | Year |
 |----------------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -53,7 +53,7 @@ Feel free to reach out via e-mail at yuchen.xia@ias.uni-stuttgart.de.
 
 
 ---
-## Teaching and Supervision of Research Projects
+## <span id="teaching">Teaching and Supervision of Research Projects</span>
 
 I designed more than 45 research topics for master's theses and mentor students throughout their thesis work. All my students (>30) successfully graduated and nearly all pursue careers in industry.
 
