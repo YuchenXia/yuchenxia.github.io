@@ -19,7 +19,7 @@ My research focuses on the following areas:
 
 Feel free to reach out via e-mail at yuchen.xia@ias.uni-stuttgart.de.
 
-===
+---
 ## Academic Journey
 * Ph.D. Candidate, Industrial Automation & Software Engineering, University of Stuttgart (2020 – present)  
   *Funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).*
@@ -28,29 +28,30 @@ Feel free to reach out via e-mail at yuchen.xia@ias.uni-stuttgart.de.
   *(dual-degree programme)*
 * B.Eng. Mechanical Design & Automation, Wuhan University, China (2011-2017)
   *(dual-degree programme)*
-===
+---
 
 ## Recent Highlights
-* **July 01 2025** – Awarded **atp award 2024** at **VDI-Wissensforum, Automation 2025 in Baden-Baden** for research paper article Applying Large Language Models for intelligent industrial automation. 
+* July 01 2025 – Awarded **🏆atp award, VDI-Wissensforum, Automation 2025** in Baden-Baden for research paper article Applying Large Language Models for intelligent industrial automation. 
 
-* **Sep 13 2024** – Awarded **Best-Paper** at **ETFA 2024** for research paper LLM Experiments with Simulation: Multi-Agent System for Simulation Model Parameterization in Digital Twins.
+* Sep 13 2024 – Awarded **🏆Best-Paper ETFA 2024** for research paper LLM Experiments with Simulation: Multi-Agent System for Simulation Model Parameterization in Digital Twins.
 
-===
+---
 ## Publications <small>(full list on <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="\_blank">Google Scholar</a>)</small>
-| Title |
-|-------|
-| Towards autonomous systems: Flexible modular production system enhanced with large language model agents (2023) |
-| Generation of asset administration shell with large language model agents: Towards semantic interoperability in digital twins (Industry 4.0) (2024) |
-| LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parameterization in Digital Twins (2024) 🏆 **Best Paper – ETFA 2024, Sep 12, 2024** |
-| Automated generation of Asset Administration Shell: A transfer-learning approach with neural language model and semantic fingerprints (2022) |
-| Incorporating Large Language Models into Production Systems for Enhanced Task Automation and Flexibility (2024) |
-| A Flexible Digital Twin Framework for ATMP Production – Towards an Efficient CAR T Cell Manufacturing (2024) |
-| Enhance FMEA with Large Language Models for Assisted Risk Management in Technical Processes and Products (2024) |
-| Control Industrial Automation Systems with Large Language Models (2024) |
-| Applying Large Language Models for Intelligent Industrial Automation (2024) 🥇 **atp Award 2024 – VDI Automation, July 01, 2025** |
+
+| Title                                                                                                                                        | Year |
+|----------------------------------------------------------------------------------------------------------------------------------------------|------|
+| Towards autonomous systems: Flexible modular production system enhanced with large language model agents                                     | 2023 |
+| Generation of asset administration shell with large language model agents: Towards semantic interoperability in digital twins (Industry 4.0) | 2024 |
+| LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parameterization in Digital Twins 🏆 **Best Paper – ETFA 2024 (Sep 13, 2024)** | 2024 |
+| Automated generation of Asset Administration Shell: A transfer-learning approach with neural language model and semantic fingerprints        | 2022 |
+| Incorporating Large Language Models into Production Systems for Enhanced Task Automation and Flexibility                                    | 2024 |
+| A Flexible Digital Twin Framework for ATMP Production – Towards an Efficient CAR T Cell Manufacturing                                        | 2024 |
+| Enhance FMEA with Large Language Models for Assisted Risk Management in Technical Processes and Products                                     | 2024 |
+| Control Industrial Automation Systems with Large Language Models                                                                             | 2024 |
+| Applying Large Language Models for Intelligent Industrial Automation 🥇 **atp award 2024 – VDI Automation (July 01, 2025)**                   | 2024 |
 
 
-===
+---
 ## Teaching and Supervision of Research Projects
 
 I design research topics for master's theses (45 total) and mentor students throughout their thesis work. All my students (>30) successfully graduated and nearly all pursue careers in industry.
