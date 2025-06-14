@@ -35,22 +35,21 @@ Feel free to reach out via e-mail at yuchen.xia@ias.uni-stuttgart.de.
 ## Recent Highlights
 * **July 01 2025** – Awarded **atp award 2024** at **VDI-Wissensforum, Automation 2025 in Baden-Baden** for research paper article Applying Large Language Models for intelligent industrial automation. 
 
-* **Sep 13 2024** – Awarded **Best-Paper** at **ETFA 2024** for research paper LLM Experiments with Simulation: Multi-Agent System for Simulation Model Parameterization in Digital Twins..  
+* **Sep 13 2024** – Awarded **Best-Paper** at **ETFA 2024** for research paper LLM Experiments with Simulation: Multi-Agent System for Simulation Model Parameterization in Digital Twins.
 
 ===
 ## Publications <small>(full list on <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="\_blank">Google Scholar</a>)</small>
-| Title                                                                                                                                        | Cited by | Year |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------|------|
-| Towards autonomous systems: Flexible modular production system enhanced with large language model agents                                     | 73       | 2023 |
-| Generation of asset administration shell with large language model agents: Towards semantic interoperability in digital twins (Industry 4.0) | 27*      | 2024 |
-| LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parameterization in Digital Twins              | 18*      | 2024 |
-| Automated generation of Asset Administration Shell: A transfer-learning approach with neural language model and semantic fingerprints        | 13       | 2022 |
-| Incorporating Large Language Models into Production Systems for Enhanced Task Automation and Flexibility                                    | 8        | 2024 |
-| A Flexible Digital Twin Framework for ATMP Production – Towards an Efficient CAR T Cell Manufacturing                                        | 7        | 2024 |
-| Enhance FMEA with Large Language Models for Assisted Risk Management in Technical Processes and Products                                     | 3        | 2024 |
-| Control Industrial Automation Systems with Large Language Models                                                                             | 2        | 2024 |
-| Applying Large Language Models for Intelligent Industrial Automation                                                                         | 2        | 2024 |
-
+| Title |
+|-------|
+| Towards autonomous systems: Flexible modular production system enhanced with large language model agents (2023) |
+| Generation of asset administration shell with large language model agents: Towards semantic interoperability in digital twins (Industry 4.0) (2024) |
+| LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parameterization in Digital Twins (2024) 🏆 **Best Paper – ETFA 2024, Sep 12, 2024** |
+| Automated generation of Asset Administration Shell: A transfer-learning approach with neural language model and semantic fingerprints (2022) |
+| Incorporating Large Language Models into Production Systems for Enhanced Task Automation and Flexibility (2024) |
+| A Flexible Digital Twin Framework for ATMP Production – Towards an Efficient CAR T Cell Manufacturing (2024) |
+| Enhance FMEA with Large Language Models for Assisted Risk Management in Technical Processes and Products (2024) |
+| Control Industrial Automation Systems with Large Language Models (2024) |
+| Applying Large Language Models for Intelligent Industrial Automation (2024) 🥇 **atp Award 2024 – VDI Automation, July 01, 2025** |
 
 
 ===
@@ -110,13 +109,21 @@ I design research topics for master's theses (45 total) and mentor students thro
 - Evaluation of Foundation Models for Semantics-Based Classification of Standardized Data Properties (Research Project)  
 - Development of a Graph Database to Manage Concept Descriptions in Automation Engineering (Research Project)  
 
-===
+---
 
-## Contact
+## Professional Links
+
+* [Google Scholar](https://scholar.google.de/citations?user=hi1srxkAAAAJ)  
+* [ResearchGate](https://www.researchgate.net/profile/Yuchen-Xia-4)  
+* [LinkedIn](https://www.linkedin.com/in/xiayuchen/)
+
+---
+
+### Contact
 Institute of Industrial Automation and Software Engineering
 University of Stuttgart
 Pfaffenwaldring 47, Room 1.138
 70550 Stuttgart, Germany
 Email: yuchen.xia@ias.uni-stuttgart.de
 
-===
+---
