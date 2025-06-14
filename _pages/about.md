@@ -54,7 +54,7 @@ Feel free to reach out via e-mail at yuchen.xia@ias.uni-stuttgart.de.
 ---
 ## Teaching and Supervision of Research Projects
 
-I design research topics for master's theses (45 total) and mentor students throughout their thesis work. All my students (>30) successfully graduated and nearly all pursue careers in industry.
+I designed more than 45 research topics for master's theses and mentor students throughout their thesis work. All my students (>30) successfully graduated and nearly all pursue careers in industry.
 
 ### 2025 (ongoing)
 - Secure Task Delegation for Tool-Using Language Model Agents in Workflow Automation  (Master Thesis)  
@@ -107,14 +107,6 @@ I design research topics for master's theses (45 total) and mentor students thro
 ### 2021
 - Evaluation of Foundation Models for Semantics-Based Classification of Standardized Data Properties (Research Project)  
 - Development of a Graph Database to Manage Concept Descriptions in Automation Engineering (Research Project)  
-
----
-
-## Professional Links
-
-* [Google Scholar](https://scholar.google.de/citations?user=hi1srxkAAAAJ)  
-* [ResearchGate](https://www.researchgate.net/profile/Yuchen-Xia-4)  
-* [LinkedIn](https://www.linkedin.com/in/xiayuchen/)
 
 ---
 
