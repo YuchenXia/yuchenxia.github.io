@@ -29,7 +29,7 @@ author:
   location         : 
   employer         : "University of Stuttgart"
   uri              : # URL
-  email            : "yuchen.xia@ias.uni-stuttgart.de" 
+  email            : "yuchen.xia@stuttgart.de" 
 
   # Academic websites
   academia         : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/xiayuchen/"
+  linkedin         : "xiayuchen"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
