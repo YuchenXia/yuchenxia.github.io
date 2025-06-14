@@ -54,7 +54,8 @@ University of Stuttgart, Germany
 ---
 ## <span id="teaching">Teaching and Supervision of Research Projects</span>
 
-I designed more than 45 research topics for master's theses and mentor students throughout their thesis work. All my students (>30) successfully graduated and nearly all pursue careers in industry.
+I have designed over 40 research topics for master's students and mentored them throughout their thesis work. This includes 25 master's theses and 17 smaller research projects. After graduation (ca. 30 students in total), most have gone on to become engineers and pursue careers in industry.
+
 
 ### 2025 (ongoing)
 - Secure Task Delegation for Tool-Using Language Model Agents in Workflow Automation  (Master Thesis)  
@@ -112,7 +113,7 @@ I designed more than 45 research topics for master's theses and mentor students 
 ### Contact
 Institute of Industrial Automation and Software Engineering  
 University of Stuttgart  
-Pfaffenwaldring 47, Room 1.138  
+Pfaffenwaldring 47
 70550 Stuttgart, Germany  
 Email: yuchen.xia@ias.uni-stuttgart.de  
 
