@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*(final-year) Doctoral Candidate*  
+*(final-year)* **Doctoral Candidate**
 Institute of Industrial Automation and Software Engineering (IAS),  
 University of Stuttgart, Germany  
 
@@ -19,13 +19,13 @@ Feel free to reach out via e-mail at yuchen.xia@ias.uni-stuttgart.de.
 
 ---
 ## Academic Journey
-* Ph.D. Candidate, Industrial Automation & Software Engineering, University of Stuttgart (2020 – present)  
+* Ph.D. Candidate, Industrial Automation & Software Engineering, University of Stuttgart (2020 – present)
   *Funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).*
 * M.Sc. Mechatronics & Autonomous Driving, University of Stuttgart (2019)
-* B.Sc. Automotive & Engine Technology, University of Stuttgart (2017)  
-  *dual-degree programme*
+* B.Sc. Automotive & Engine Technology, University of Stuttgart (2017)
+  *Dual-degree programme*
 * B.Eng. Mechanical Design & Automation, Wuhan University, China (2011-2017)
-  *dual-degree programme*
+  *Dual-degree programme*
 
 ---
 ## Recent Highlights
@@ -107,10 +107,9 @@ I designed more than 45 research topics for master's theses and mentor students 
 
 ### 2021
 - Evaluation of Foundation Models for Semantics-Based Classification of Standardized Data Properties (Research Project)  
-- Development of a Graph Database to Manage Concept Descriptions in Automation Engineering (Research Project)  
+- Development of a Graph Database to Manage Concept Descriptions in Automation Engineering (Master Thesis)  
 
 ---
-
 ### Contact
 Institute of Industrial Automation and Software Engineering
 University of Stuttgart
