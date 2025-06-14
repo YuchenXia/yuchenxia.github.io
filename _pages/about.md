@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# Yuchen Xia  
 *Doctoral Candidate*  
 Institute of Industrial Automation and Software Engineering,  
 University of Stuttgart, Germany  
