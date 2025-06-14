@@ -26,13 +26,13 @@ author:
   name             : "Yuchen Xia"
   pronouns         : # example: "she/her"  
   bio              : "Research on LLM, digital twins & automation"
-  location         : 
+  location         : "Stuttgart, Germany"
   employer         : "University of Stuttgart"
-  uri              : # URL
+  uri              : "https://www.ias.uni-stuttgart.de/institut/team/Xia-00002/"
   email            : "yuchen.xia@stuttgart.de" 
 
   # Academic websites
-  academia         : # URL
+  academia         : 
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=hi1srxkAAAAJ"
   impactstory      : # URL
