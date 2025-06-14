@@ -10,7 +10,8 @@ redirect_from:
 Institute of Industrial Automation and Software Engineering (IAS),  
 University of Stuttgart, Germany  
 
-My research focuses on the following areas:  
+---
+## Research Areas:  
 * **Large Language Models**: Agent System, Task Automation, Tool Using, Assistant System for Specialized Tasks.  
 * **Digital Twins**: Software-as-a-Service (SaaS), Simulation, System Modeling, Software Modeling, Semantic Modeling, Model-driven Software Development
 * **Autiomation System**: Industrial Automation System, Robotics System, Automotive System.  
