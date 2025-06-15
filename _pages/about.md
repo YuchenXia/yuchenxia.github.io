@@ -13,7 +13,7 @@ University of Stuttgart, Germany
 ---
 # Research Areas:  
 * **Large Language Models**: Agent System, Tool-Using Agent, Generative System, Assistant System for Specialized Tasks.  
-* **Digital Twins**: Software-as-a-Service (SaaS), System Modeling, Simulation, Software Modeling, Semantic Modeling, Model-driven Software Development.
+* **Digital Twins**: Software-as-a-Service (SaaS), System Modeling, Simulation, Software Modeling, Semantic Modeling, Model-driven Software Development
 * **Automation System**: Industrial Automation, Internet of Things, Workflow and Task Automation, Robotics Application, and Automotive Application.
 
 ---
@@ -55,7 +55,7 @@ University of Stuttgart, Germany
     <a href="https://doi.org/10.1109/ETFA61755.2024.10710900" target="_blank">[IEEE published (PDF)]</a>
     <a href="https://arxiv.org/abs/2405.18092" target="_blank">[arXiv Pre-print (PDF)]</a>
     <a href="https://github.com/YuchenXia/LLMDrivenSimulation" target="_blank">[GitHub]</a>
-    🏆Best-Paper-Award at IEEE-ETFA-2024 (Sep 13, 2024)
+    🏆 **Best-Paper-Award at IEEE-ETFA-2024 (Sep 13, 2024)** 
     </p>
   </div>
   <div class="research-image">
@@ -126,16 +126,16 @@ University of Stuttgart, Germany
     <a href="https://open.spotify.com/episode/4B34BBCo0LWwqMi98glmQv?si=PbTD9IM5TQe90B3NipbjUw" target="_blank">[Spotify]</a>
     </p>
   </div>
-  <div class="research-image" style="display: flex; align-items: center; gap: 20px;">
-    <img src="/images/research/podcast_cover.png" alt="podcast_cover.png" style="width: 30%;">
-    <p style="margin: 0;">TLDR: Interview and discussion about LLM agents for simulation and digital twins</p>
+  <div class="research-image">
+    <p><img src="/images/research/podcast_cover.png" alt="podcast_cover.png" style="width: 30%">TLDR: Interview and discussion about LLM agents for simulation and digital twins</p>
   </div>
 </div>
 
 <div class="research-item">
   <div class="research-content">
-    <p><strong>Applying Large Language Models for intelligent industrial automation, Yuchen Xia, Nasser Jazdi, Michael Weyrich, <em>atp magazin, Vol. 66, No. 6-7, pp. 62-71, 2024</em>, <a href="https://atpinfo.de/wp-content/uploads/2025/04/xia.pdf" target="_blank">[atp magazin (PDF)]</a>
-    <a href="https://atpinfo.de/" target="_blank">[Subscribe atp magazin]</a>🏆atp award, VDI-Wissensforum, Automation 2025 
+    <p><strong>Applying Large Language Models for intelligent industrial automation,</strong> Yuchen Xia, Nasser Jazdi, Michael Weyrich, <em>atp magazin, Vol. 66, No. 6-7, pp. 62-71, 2024</em>,
+    <a href="https://atpinfo.de/wp-content/uploads/2025/04/xia.pdf" target="_blank">[atp magazin (PDF)]</a>
+    <a href="https://atpinfo.de/" target="_blank">[Subscribe atp magazin]</a>
     </p>
   </div>
   <div class="research-image">
