@@ -12,9 +12,9 @@ University of Stuttgart, Germany
 
 ---
 ## Research Areas:  
-* **Large Language Models**: Agent System, Task Automation, Tool Using, Assistant System for Specialized Tasks.  
-* **Digital Twins**: Software-as-a-Service (SaaS), Simulation, System Modeling, Software Modeling, Semantic Modeling, Model-driven Software Development
-* **Autiomation System**: Industrial Automation System, Robotics System, Automotive System.  
+* **Large Language Models**: Agent System, Tool-Using Agent, Generative System, Assistant System for Specialized Tasks.  
+* **Digital Twins**: Software-as-a-Service (SaaS), System Modeling, Simulation, Software Modeling, Semantic Modeling, Model-driven Software Development
+* **Automation System**: Industrial Automation, Internet of Things, Workflow and Task Automation, Robotics Application, and Automotive Application.
 
 ---
 ## Academic Journey
