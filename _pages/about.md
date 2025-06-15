@@ -172,7 +172,7 @@ University of Stuttgart, Germany
 
 I have designed over 40 research topics for master's students and mentored them throughout their thesis work. This includes 25 master's theses and 17 smaller research projects. After graduating (around 30 students in total), most students became engineers and are currently working in industry.
 
-## List of supervised students theses:
+## List of supervised students' theses:
 ### 2025 (ongoing)
 - Secure Task Delegation for Tool-Using Language Model Agents in Workflow Automation  (Master Thesis)  
 - Integrating Visual Large Language Models for Anomaly Recognition in Manufacturing Systems (Master Thesis)  
