@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span id="about_t">**Doctoral Candidate** *(final-year)*</span>
+<span id="about_t">**Doctoral Candidate** *(final-year)*</span>  
 Institute of Industrial Automation and Software Engineering (IAS)  
 University of Stuttgart, Germany  
 
