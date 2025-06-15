@@ -35,7 +35,7 @@ University of Stuttgart, Germany
 ---
 ## <span id="research">Research</span>
 
-<div class="research-item" style="margin-bottom: 2rem; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);">
+<div class="research-item">
   <div class="research-content">
     <p><strong>Towards autonomous system: flexible modular production system enhanced with large language model agents</strong> Yuchen Xia, Methan Shenoy, Nasser Jazdi, Michael Weyrich, <em>IEEE 28th ETFA, 2023</em>,
     <a href="https://doi.org/10.1109/ETFA54631.2023.10275362" target="_blank">[IEEE published (PDF)]</a>
@@ -44,11 +44,11 @@ University of Stuttgart, Germany
     </p>
   </div>
   <div class="research-image">
-    <img src="/images/research/autonomous_system_demo.gif" alt="autonomous_system_demo.gif" style="max-width: 100%; height: auto;">
+    <img src="/images/research/autonomous_system_demo.gif" alt="autonomous_system_demo.gif">
   </div>
 </div>
 
-<div class="research-item" style="margin-bottom: 2rem; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);">
+<div class="research-item">
   <div class="research-content">
     <p><strong>LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parametrization in Digital Twins</strong> Yuchen Xia, Daniel Dittler, Nasser Jazdi, Haonan Chen, Michael Weyrich, <em>IEEE 29th ETFA, 2024</em>,
     <a href="https://doi.org/10.1109/ETFA61755.2024.10710900" target="_blank">[IEEE published (PDF)]</a>
