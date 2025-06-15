@@ -37,32 +37,45 @@ University of Stuttgart, Germany
 
 <div class="research-item">
   <div class="research-content">
-    <p><strong>Towards autonomous system: flexible modular production system enhanced with large language model agents</strong> Yuchen Xia, Methan Shenoy, Nasser Jazdi, Michael Weyrich, <em>IEEE 28th ETFA, 2023</em>,
+    <p><strong>Towards autonomous system: flexible modular production system enhanced with large language model agents,</strong> Yuchen Xia, Methan Shenoy, Nasser Jazdi, Michael Weyrich, <em>IEEE 28th ETFA, 2023</em>,
     <a href="https://doi.org/10.1109/ETFA54631.2023.10275362" target="_blank">[IEEE published (PDF)]</a>
     <a href="https://arxiv.org/abs/2304.14721" target="_blank">[arXiv Pre-print (PDF)]</a>
-    <a href="https://youtu.be/GhBoxGfjRIE" target="_blank">[Video]</a>
+    <a href="https://youtu.be/GhBoxGfjRIE" target="_blank">[Youtube Video]</a>
     </p>
   </div>
   <div class="research-image">
+    <p>TLDR: LLM agents plan workflows and control automation facility</p>
     <img src="/images/research/autonomous_system_demo.gif" alt="autonomous_system_demo.gif">
   </div>
 </div>
 
 <div class="research-item">
   <div class="research-content">
-    <p><strong>LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parametrization in Digital Twins</strong> Yuchen Xia, Daniel Dittler, Nasser Jazdi, Haonan Chen, Michael Weyrich, <em>IEEE 29th ETFA, 2024</em>,
+    <p><strong>LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parametrization in Digital Twins,</strong> Yuchen Xia, Daniel Dittler, Nasser Jazdi, Haonan Chen, Michael Weyrich, <em>IEEE 29th ETFA, 2024</em>,
     <a href="https://doi.org/10.1109/ETFA61755.2024.10710900" target="_blank">[IEEE published (PDF)]</a>
     <a href="https://arxiv.org/abs/2405.18092" target="_blank">[arXiv Pre-print (PDF)]</a>
     <a href="https://github.com/YuchenXia/LLMDrivenSimulation" target="_blank">[GitHub]</a>
+    🏆 **Best-Paper-Award at IEEE-ETFA-2024 (Sep 13, 2024)** 
     </p>
   </div>
   <div class="research-image">
+    <p>TLDR: LLM agents simulate experiments</p>
     <img src="/images/research/simulation_integrated_agent_system.gif" alt="simulation_integrated_agent_system.gif" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
-
-
+<div class="research-item">
+  <div class="research-content">
+    <p><strong>Generation of Asset Administration Shell With Large Language Model Agents: Toward Semantic Interoperability in Digital Twins in the Context of Industry 4.0,</strong> Yuchen Xia, Zhewen Xiao, Nasser Jazdi, Michael Weyrich, <em>IEEE Access, 2024</em>,
+    <a href="https://doi.org/10.1109/ACCESS.2024.3415470" target="_blank">[IEEE published (PDF)]</a>
+    <a href="https://github.com/YuchenXia/AASbyLLM" target="_blank">[GitHub]</a>
+    </p>
+  </div>
+  <div class="research-image">
+    <p>TLDR: Translate unstructured data into structured information model</p>
+    <img src="/images/research/demo_AAS_generation.gif" alt="demo_AAS_generation.gif">
+  </div>
+</div>
 
 ---
 # <span id="publications">Publications</span> <small>(also see <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="\_blank">Google Scholar</a>)</small>
