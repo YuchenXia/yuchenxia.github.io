@@ -139,9 +139,9 @@ University of Stuttgart, Germany
     <a href="https://open.spotify.com/episode/4B34BBCo0LWwqMi98glmQv?si=PbTD9IM5TQe90B3NipbjUw" target="_blank">[Spotify]</a>
     </p>
   </div>
-  <div class="research-image">
+  <div class="research-image"">
     <p>TLDR: Interview and discussion about LLM agents for simulation and digital twins</p>
-    <img src="/images/research/podcast_cover.png" alt="podcast_cover.png">
+    <img src="/images/research/podcast_cover.png" alt="podcast_cover.png" style="width: 30%">
   </div>
 </div>
 
