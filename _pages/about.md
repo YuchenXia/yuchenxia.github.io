@@ -77,6 +77,60 @@ University of Stuttgart, Germany
   </div>
 </div>
 
+<div class="research-item">
+  <div class="research-content">
+    <p><strong>Control Industrial Automation System with Large Language Models,</strong> Yuchen Xia, Nasser Jazdi, Jize Zhang, Chaitanya Shah, Michael Weyrich, <em>(accepted) IEEE 30th ETFA, 2025</em>,
+    <a href="https://doi.org/10.48550/arXiv.2409.18009" target="_blank">[arXiv Pre-print (PDF)]</a>
+    <a href="https://github.com/YuchenXia/LLM4IAS" target="_blank">[GitHub]</a>
+    </p>
+  </div>
+  <div class="research-image">
+    <p>TLDR: Control of automation and robotics system with LLM Agents</p>
+    <img src="/images/research/lab_demo_4_scenes.gif" alt="lab_demo_4_scenes.gif">
+    <img src="/images/research/event_based_control.gif" alt="event_based_control.gif">
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-content">
+    <p><strong>Incorporating Large Language Models into Production Systems for Enhanced Task Automation and Flexibility,</strong> Yuchen Xia, Jize Zhang, Nasser Jazdi, Michael Weyrich, <em>VDI-Berichte Nr. 2437, 2024</em>,
+    <a href="https://doi.org/10.51202/9783181024379" target="_blank">[VDI Conference (PDF)]</a>  
+    <a href="https://doi.org/10.48550/arXiv.2407.08550" target="_blank">[arXiv Pre-print (PDF)]</a>
+    </p>
+  </div>
+  <div class="research-image">
+    <p>TLDR: Event & service-based control with LLMs for automation and robotics</p>
+    <img src="/images/research/system_design.gif" alt="system_design.gif">
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-content">
+    <p><strong>Enhance FMEA with Large Language Models for Assisted Risk Management in Technical Processes and Products,</strong> Yuchen Xia, Nasser Jazdi, Michael Weyrich, <em>IEEE 29th ETFA, 2024</em>,
+    <a href="https://doi.org/10.1109/ETFA61755.2024.10710996" target="_blank">[IEEE published (PDF)]</a>
+    <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.172254395.58219170" target="_blank">[Pre-print (PDF)]</a>
+    <a href="https://github.com/YuchenXia/LLMRiskAnalyzer" target="_blank">[GitHub]</a>
+    </p>
+  </div>
+  <div class="research-image">
+    <p>TLDR: A small demo of LLM assistance in brainstorming and creating documents for risk management</p>
+    <img src="/images/research/fmea_assistant.gif" alt="fmea_assistant.gif">
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-content">
+    <p><strong>Applying Large Language Models for intelligent industrial automation,</strong> Yuchen Xia, Nasser Jazdi, Michael Weyrich, <em>atp magazin, Vol. 66, No. 6-7, pp. 62-71, 2024</em>,
+    <a href="https://atpinfo.de/wp-content/uploads/2025/04/xia.pdf" target="_blank">[atp magazin (PDF)]</a>
+    <a href="https://atpinfo.de/" target="_blank">[Subscribe atp magazin]</a>
+    </p>
+  </div>
+  <div class="research-image">
+    <p>TLDR: An overview paper explaining methodologies for applying LLM in industrial automation</p>
+    <img src="/images/research/design_methodologies.png" alt="design_methodologies.png">
+  </div>
+</div>
+
 ---
 # <span id="publications">Publications</span> <small>(also see <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="\_blank">Google Scholar</a>)</small>
 
