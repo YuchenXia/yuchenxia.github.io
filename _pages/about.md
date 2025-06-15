@@ -136,7 +136,7 @@ University of Stuttgart, Germany
   <div class="research-content">
     <p><strong>Applying Large Language Models for intelligent industrial automation,</strong> Yuchen Xia, Nasser Jazdi, Michael Weyrich, <em>atp magazin, Vol. 66, No. 6-7, pp. 62-71, 2024</em>,
     <a href="https://atpinfo.de/wp-content/uploads/2025/04/xia.pdf" target="_blank">[atp magazin (PDF)]</a>
-    <a href="https://atpinfo.de/" target="_blank">[Subscribe atp magazin]</a>
+    <a href="https://atpinfo.de/" target="_blank">[publisher subscription]</a>
     🏆atp award, VDI-Wissensforum, Automation 2025
     </p>
   </div>
