@@ -229,7 +229,7 @@ I have designed over 40 research topics for master's students and mentored them 
 ## Contact
 Institute of Industrial Automation and Software Engineering  
 University of Stuttgart  
-Pfaffenwaldring 47
+Pfaffenwaldring 47  
 70550 Stuttgart, Germany  
 Email: yuchen.xia@ias.uni-stuttgart.de  
 
