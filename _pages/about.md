@@ -11,13 +11,13 @@ Institute of Industrial Automation and Software Engineering (IAS)
 University of Stuttgart, Germany  
 
 ---
-## Research Areas:  
+# Research Areas:  
 * **Large Language Models**: Agent System, Tool-Using Agent, Generative System, Assistant System for Specialized Tasks.  
 * **Digital Twins**: Software-as-a-Service (SaaS), System Modeling, Simulation, Software Modeling, Semantic Modeling, Model-driven Software Development
 * **Automation System**: Industrial Automation, Internet of Things, Workflow and Task Automation, Robotics Application, and Automotive Application.
 
 ---
-## Academic Journey
+# Academic Journey
 * Ph.D. Candidate, Industrial Automation & Software Engineering, University of Stuttgart, Germany (2020 – present)  
   *Funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).*
 * M.Sc. Mechatronics & Autonomous Driving, University of Stuttgart, Germany (2019)  
@@ -33,7 +33,7 @@ University of Stuttgart, Germany
 * Sep 13 2024 – Awarded **🏆Best-Paper ETFA 2024** for research paper LLM Experiments with Simulation: Multi-Agent System for Simulation Model Parameterization in Digital Twins.
 
 ---
-## <span id="research">Research</span>
+# <span id="research">Research</span>
 
 <div class="research-item">
   <div class="research-content">
@@ -65,7 +65,7 @@ University of Stuttgart, Germany
 
 
 ---
-## <span id="publications">Publications</span> <small>(also see <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="\_blank">Google Scholar</a>)</small>
+# <span id="publications">Publications</span> <small>(also see <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="\_blank">Google Scholar</a>)</small>
 
 
 
@@ -86,7 +86,7 @@ University of Stuttgart, Germany
 
 
 ---
-## <span id="teaching">Teaching and Supervision of Research Projects</span>
+# <span id="teaching">Teaching and Supervision of Research Projects</span>
 
 I have designed over 40 research topics for master's students and mentored them throughout their thesis work. This includes 25 master's theses and 17 smaller research projects. After graduation (ca. 30 students in total), most have gone on to become engineers and pursue careers in industry.
 
@@ -144,7 +144,7 @@ I have designed over 40 research topics for master's students and mentored them 
 - Development of a Graph Database to Manage Concept Descriptions in Automation Engineering (Master Thesis)  
 
 ---
-### Contact
+## Contact
 Institute of Industrial Automation and Software Engineering  
 University of Stuttgart  
 Pfaffenwaldring 47
