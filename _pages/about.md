@@ -44,7 +44,7 @@ University of Stuttgart, Germany
     </p>
   </div>
   <div class="research-image">
-    <p>TLDR: LLM agents plan workflows and control automation facility</p>
+    <p>TLDR: LLM agents plan workflows and control automation facility.</p>
     <img src="/images/research/autonomous_system_demo.gif" alt="autonomous_system_demo.gif">
   </div>
 </div>
@@ -59,7 +59,7 @@ University of Stuttgart, Germany
     </p>
   </div>
   <div class="research-image">
-    <p>TLDR: LLM agents simulate experiments</p>
+    <p>TLDR: LLM agents simulate experiments.</p>
     <img src="/images/research/simulation_integrated_agent_system.gif" alt="simulation_integrated_agent_system.gif" style="max-width: 100%; height: auto;">
   </div>
 </div>
@@ -72,7 +72,7 @@ University of Stuttgart, Germany
     </p>
   </div>
   <div class="research-image">
-    <p>TLDR: Translate unstructured data into structured information model</p>
+    <p>TLDR: Translate unstructured data into structured information model.</p>
     <img src="/images/research/demo_AAS_generation.gif" alt="demo_AAS_generation.gif">
   </div>
 </div>
@@ -85,7 +85,7 @@ University of Stuttgart, Germany
     </p>
   </div>
   <div class="research-image">
-    <p>TLDR: Control of automation and robotics system with LLM Agents</p>
+    <p>TLDR: Control of automation and robotics system with LLM Agents.</p>
     <img src="/images/research/lab_demo_4_scenes.gif" alt="lab_demo_4_scenes.gif">
     <img src="/images/research/event_based_control.gif" alt="event_based_control.gif">
   </div>
@@ -99,7 +99,7 @@ University of Stuttgart, Germany
     </p>
   </div>
   <div class="research-image">
-    <p>TLDR: Event & service-based control with LLMs for automation and robotics</p>
+    <p>TLDR: Event & service-based control with LLMs for automation and robotics.</p>
     <img src="/images/research/system_design.gif" alt="system_design.gif">
   </div>
 </div>
@@ -113,7 +113,7 @@ University of Stuttgart, Germany
     </p>
   </div>
   <div class="research-image">
-    <p>TLDR: A small demo of LLM assistance in brainstorming and creating documents for risk management</p>
+    <p>TLDR: A small demo of LLM assistance in brainstorming and creating documents for risk management.</p>
     <img src="/images/research/fmea_assistant.gif" alt="fmea_assistant.gif">
   </div>
 </div>
@@ -128,7 +128,7 @@ University of Stuttgart, Germany
   </div>
   <div class="research-image" style="display: flex; align-items: center; gap: 20px;">
     <img src="/images/research/podcast_cover.png" alt="podcast_cover.png" style="width: 30%;">
-    <p style="margin: 0;">TLDR: Interview and discussion about LLM agents for simulation and digital twins</p>
+    <p style="margin: 0;">TLDR: Interview and discussion about LLM agents for simulation and digital twins.</p>
   </div>
 </div>
 
@@ -141,7 +141,7 @@ University of Stuttgart, Germany
     </p>
   </div>
   <div class="research-image">
-    <p>TLDR: An overview paper explaining methodologies for applying LLM in industrial automation</p>
+    <p>TLDR: An overview paper explaining methodologies for applying LLM in industrial automation.</p>
     <img src="/images/research/design_methodologies.png" alt="design_methodologies.png">
   </div>
 </div>
@@ -170,7 +170,7 @@ University of Stuttgart, Germany
 ---
 # <span id="teaching">Teaching and Supervision of Research Projects</span>
 
-I have designed over 40 research topics for master's students and mentored them throughout their thesis work. This includes 25 master's theses and 17 smaller research projects. After graduation (ca. 30 students in total), most have gone on to become engineers and pursue careers in industry.
+I have designed over 40 research topics for master's students and mentored them throughout their thesis work. This includes 25 master's theses and 17 smaller research projects. After graduating (around 30 students in total), most students became engineers and are currently working in industry.
 
 ## List of supervised students theses:
 ### 2025 (ongoing)
