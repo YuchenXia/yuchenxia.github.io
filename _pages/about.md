@@ -120,7 +120,7 @@ University of Stuttgart, Germany
 
 <div class="research-item">
   <div class="research-content">
-    <p><strong>Podcast interview with Peter SeebergPeter Seeberg</strong> <em>LLM Multi-Agent System, Industrial AI Podcast, 2024</em>,
+    <p><strong>Podcast interview with Peter Seeberg</strong> <em>LLM Multi-Agent System, Industrial AI Podcast, 2024</em>,
     <a href="https://www.linkedin.com/posts/aiinsider_llm-agent-simulation-activity-7244938444605452289-WPmw?" target="_blank">[LinkedIn Post]</a>
     <a href="https://podcasts.apple.com/de/podcast/ki-in-der-industrie/id1451196082?i=1000670715374" target="_blank">[Apple Podcasts]</a>
     <a href="https://open.spotify.com/episode/4B34BBCo0LWwqMi98glmQv?si=PbTD9IM5TQe90B3NipbjUw" target="_blank">[Spotify]</a>
@@ -145,10 +145,8 @@ University of Stuttgart, Germany
 </div>
 
 
-
 ---
 # <span id="publications">Publications</span> <small>(also see <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="\_blank">Google Scholar</a>)</small>
-
 
 
 | Title                                                                                                                                        | Year |
