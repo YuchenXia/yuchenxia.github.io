@@ -231,6 +231,6 @@ Institute of Industrial Automation and Software Engineering
 University of Stuttgart  
 Pfaffenwaldring 47  
 70550 Stuttgart, Germany  
-Email: yuchen.xia@ias.uni-stuttgart.de  
+**Email:** yuchen.xia@ias.uni-stuttgart.de  
 
 ---
