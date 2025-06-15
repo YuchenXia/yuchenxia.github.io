@@ -36,18 +36,16 @@ University of Stuttgart, Germany
 ## Research
 
 <div class="research-item">
-  <div class="research-image">
-    <img src="/images/research/autonomous_system_demo.gif" alt="Flexible modular production system demonstration" style="max-width: 100%; height: auto;">
-  </div>
   <div class="research-content">
     <h3>Towards autonomous system: flexible modular production system enhanced with large language model agents</h3>
-    <p>Y Xia, M Shenoy, N Jazdi, M Weyrich<br>
-    <em>IEEE 28th ETFA, 2023</em></p>
-    <p>
-      <a href="https://doi.org/10.1109/ETFA54631.2023.10275362" target="_blank">[IEEE published (PDF)]</a>
-      <a href="https://arxiv.org/abs/2304.14721" target="_blank">[Arxiv Pre-print (PDF)]</a>
-      <a href="https://youtu.be/GhBoxGfjRIE" target="_blank">[Video]</a>
+    <p>Yuchen Xia, Methan Shenoy, Nasser Jazdi, Michael Weyrich, <em>IEEE 28th ETFA, 2023</em>,
+    <a href="https://doi.org/10.1109/ETFA54631.2023.10275362" target="_blank">[IEEE published (PDF)]</a>
+    <a href="https://arxiv.org/abs/2304.14721" target="_blank">[Arxiv Pre-print (PDF)]</a>
+    <a href="https://youtu.be/GhBoxGfjRIE" target="_blank">[Video]</a>
     </p>
+  </div>
+  <div class="research-image">
+    <img src="/images/research/autonomous_system_demo.gif" alt="Flexible modular production system demonstration" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
