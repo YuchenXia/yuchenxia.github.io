@@ -35,11 +35,11 @@ University of Stuttgart, Germany
 ---
 ## <span id="research">Research</span>
 
-<div class="research-item">
+<div class="research-item" style="margin-bottom: 2rem; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);">
   <div class="research-content">
     <p><strong>Towards autonomous system: flexible modular production system enhanced with large language model agents</strong> Yuchen Xia, Methan Shenoy, Nasser Jazdi, Michael Weyrich, <em>IEEE 28th ETFA, 2023</em>,
     <a href="https://doi.org/10.1109/ETFA54631.2023.10275362" target="_blank">[IEEE published (PDF)]</a>
-    <a href="https://arxiv.org/abs/2304.14721" target="_blank">[Arxiv Pre-print (PDF)]</a>
+    <a href="https://arxiv.org/abs/2304.14721" target="_blank">[arXiv Pre-print (PDF)]</a>
     <a href="https://youtu.be/GhBoxGfjRIE" target="_blank">[Video]</a>
     </p>
   </div>
@@ -48,11 +48,11 @@ University of Stuttgart, Germany
   </div>
 </div>
 
-<div class="research-item">
+<div class="research-item" style="margin-bottom: 2rem; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);">
   <div class="research-content">
     <p><strong>LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parametrization in Digital Twins</strong> Yuchen Xia, Daniel Dittler, Nasser Jazdi, Haonan Chen, Michael Weyrich, <em>IEEE 29th ETFA, 2024</em>,
     <a href="https://doi.org/10.1109/ETFA61755.2024.10710900" target="_blank">[IEEE published (PDF)]</a>
-    <a href="https://arxiv.org/abs/2405.18092" target="_blank">[Arxiv Pre-print (PDF)]</a>
+    <a href="https://arxiv.org/abs/2405.18092" target="_blank">[arXiv Pre-print (PDF)]</a>
     <a href="https://github.com/YuchenXia/LLMDrivenSimulation" target="_blank">[GitHub]</a>
     </p>
   </div>
@@ -60,6 +60,9 @@ University of Stuttgart, Germany
     <img src="/images/research/simulation_integrated_agent_system.gif" alt="simulation_integrated_agent_system.gif" style="max-width: 100%; height: auto;">
   </div>
 </div>
+
+
+
 
 ---
 ## <span id="publications">Publications</span> <small>(also see <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="\_blank">Google Scholar</a>)</small>
