@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<meta name="google-site-verification" content="nAq6QLeWK_4N7y6zI76rrF8NarFyycJ4y_3vVCi391E" />
+
 <span id="about_t">**Doctoral Candidate** *(final-year)*</span>  
 Institute of Industrial Automation and Software Engineering (IAS)  
 University of Stuttgart, Germany  
@@ -127,7 +130,7 @@ University of Stuttgart, Germany
     </p>
   </div>
   <div class="research-image" style="display: flex; align-items: center; gap: 20px;">
-    <img src="/images/research/podcast_cover.png" alt="podcast_cover.png" style="width: 30%;">
+    <img src="/images/research/podcast_cover.png" alt="podcast_cover.png" style="width: 20%;">
     <p style="margin: 0;">TLDR: Interview and discussion about LLM agents for simulation and digital twins.</p>
   </div>
 </div>
