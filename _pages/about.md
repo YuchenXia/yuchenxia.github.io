@@ -9,7 +9,7 @@ redirect_from:
 
 <meta name="google-site-verification" content="nAq6QLeWK_4N7y6zI76rrF8NarFyycJ4y_3vVCi391E" />
 
-<span id="about_t">**Doctoral Candidate** *(final-year)*</span>  
+<span id="about">**Doctoral Candidate** *(final-year)*</span>  
 Institute of Industrial Automation and Software Engineering (IAS)  
 University of Stuttgart, Germany  
 
