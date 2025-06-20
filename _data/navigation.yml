@@ -9,7 +9,7 @@
 
 main:
   - title: "About"
-    url: /#about_t
+    url: /#about
 
   - title: "Research"
     url: /#research
