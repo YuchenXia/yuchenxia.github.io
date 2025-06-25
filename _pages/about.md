@@ -23,15 +23,15 @@ University of Stuttgart, Germany
 # Academic Journey
 * Ph.D. Candidate, Industrial Automation & Software Engineering, University of Stuttgart, Germany (2020 – present)  
   *Funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).*
-* M.Sc. Mechatronics & Autonomous Driving, University of Stuttgart, Germany (2019)  
-* B.Sc. Automotive & Engine Technology, University of Stuttgart, Germany (2017)  
+* M.Sc., Mechatronics & Autonomous Systems, University of Stuttgart, Germany (2019)  
+* B.Sc., Automotive & Engine Technology, University of Stuttgart, Germany (2017)  
   *Dual-degree program*
-* B.Eng. Mechanical Design & Automation, Wuhan University, China (2011-2017)  
+* B.Eng., Mechanical Design & Automation, Wuhan University, China (2011-2017)  
   *Dual-degree program*
 
 ---
 ## Awards and Acknowledgements
-* July 01 2025 (upcoming) – **🏆atp award, VDI-Wissensforum, Automation 2025** in Baden-Baden for research paper article Applying Large Language Models for intelligent industrial automation. 
+* July 02 2025 (upcoming) – **🏆atp award, VDI-Wissensforum, Automation 2025** in Baden-Baden for research paper article Applying Large Language Models for intelligent industrial automation. 
 
 * Sep 13 2024 – Awarded **🏆Best-Paper ETFA 2024** for research paper LLM Experiments with Simulation: Multi-Agent System for Simulation Model Parameterization in Digital Twins.
 
