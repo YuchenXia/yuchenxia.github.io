@@ -149,6 +149,17 @@ University of Stuttgart, Germany
   </div>
 </div>
 
+<div class="research-item">
+  <div class="research-content">
+    <p><strong>An Architecture for Integrating Large Language Models with Digital Twins and Automation Systems,</strong> Yuchen Xia, et al., <em>2025</em>,<br>
+    <a href="/files/architecture_for_integrating_large_language_models.pdf" target="_blank">[Preprint (PDF)]</a>
+    </p>
+  </div>
+  <div class="research-image">
+    <p>TLDR: Layered architecture and modeling methods for integrating LLMs, digital twins, and automation systems.</p>
+    <img src="/images/research/modeling_methods.png" alt="modeling_methods.png">
+  </div>
+</div>
 
 ---
 # <span id="publications">Publications</span> <small>(also see <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="\_blank">Google Scholar</a>)</small>
