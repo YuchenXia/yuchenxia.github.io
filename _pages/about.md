@@ -30,7 +30,7 @@ University of Stuttgart, Germany
   *Dual-degree program*
 
 ---
-## Awards and Acknowledgements
+# Awards and Acknowledgements
 <div class="research-item">
   <strong>🏆 atp award, VDI-Wissensforum, Automation 2025</strong>, July 01, 2025, Baden-Baden, Germany<br>
   <p>For research: <em>Applying Large Language Models for intelligent industrial automation</em>.</p>
