@@ -31,19 +31,15 @@ University of Stuttgart, Germany
 
 ---
 ## Awards and Acknowledgements
-* July 02 2025 (upcoming) – **🏆atp award, VDI-Wissensforum, Automation 2025** in Baden-Baden for research paper article Applying Large Language Models for intelligent industrial automation. 
-
-* Sep 13 2024 – Awarded **🏆Best-Paper ETFA 2024** for research paper LLM Experiments with Simulation: Multi-Agent System for Simulation Model Parameterization in Digital Twins.
-
 <div class="research-item">
   <strong>🏆 atp award, VDI-Wissensforum, Automation 2025</strong>, July 01, 2025, Baden-Baden, Germany<br>
-  <p>For research paper: <em>Applying Large Language Models for intelligent industrial automation</em>.</p>
+  <p>For research: <em>Applying Large Language Models for intelligent industrial automation</em>.</p>
   <img src="/images/automation2025.png" alt="vdi_atp_award_image">
 </div>
 
 <div class="research-item">
   <strong>🏆 Best-Paper Award, IEEE ETFA 2024</strong>, Sep 13, 2024, Padova, Italy <br> 
-  <p>For research paper: <em>LLM Experiments with Simulation: Multi-Agent System for Simulation Model Parameterization in Digital Twins</em>.</p>
+  <p>For research: <em>LLM Experiments with Simulation: Multi-Agent System for Simulation Model Parameterization in Digital Twins</em>.</p>
   <img src="/images/etfa2024.png" alt="etfa2024_award_image">
 </div>
 
