@@ -151,7 +151,7 @@ University of Stuttgart, Germany
 
 <div class="research-item">
   <div class="research-content">
-    <p><strong>An Architecture for Integrating Large Language Models with Digital Twins and Automation Systems,</strong> Yuchen Xia, et al., <em>2025</em>,<br>
+    <p><strong>An Architecture for Integrating Large Language Models with Digital Twins and Automation Systems,</strong> Yuchen Xia, Nasser Jazdi, Michael Weyrich, <em>IEEE 29th ETFA, 2025</em>,
     <a href="/files/architecture_for_integrating_large_language_models.pdf" target="_blank">[Preprint (PDF)]</a>
     </p>
   </div>
