@@ -24,9 +24,9 @@ University of Stuttgart, Germany
 * Ph.D. Candidate, Industrial Automation & Software Engineering, University of Stuttgart, Germany (2020 – present)  
   *Funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).*
 * M.Sc., Mechatronics & Autonomous Systems, University of Stuttgart, Germany (2019)  
-* B.Sc., Automotive & Engine Technology, University of Stuttgart, Germany (2013-2017)  
+* B.Sc., Automotive & Engine Technology, University of Stuttgart [[Wiki]](https://en.wikipedia.org/wiki/University_of_Stuttgart), Germany (2013-2017)  
   *Dual-degree program*
-* B.Eng., Mechanical Design & Automation, Wuhan University, China (2011-2017)  
+* B.Eng., Mechanical Design & Automation, Wuhan University [[Wiki]](https://en.wikipedia.org/wiki/Wuhan_University), China (2011-2017)  
   *Dual-degree program*
 
 ---
