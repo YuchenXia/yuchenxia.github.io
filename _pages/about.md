@@ -194,37 +194,16 @@ University of Stuttgart, Germany
 
 I have designed more than 40 research topics for master students and mentored them throughout their thesis work. It includes 25 master theses and 17 smaller research projects. After graduating (more than 30 students in total), most students became engineers and are currently working in industry.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## List of supervised students' theses:
 ### 2025 (ongoing)
 - Secure Task Delegation for Tool-Using Language Model Agents in Workflow Automation  (Master Thesis)  
 - Integrating Visual Large Language Models for Anomaly Recognition in Manufacturing Systems (Master Thesis)  
-- Information Extraction with LLM Agents and Code Generation based on a Model-Driven Software Platform (Master Thesis <a href="/files/student_theses/Text_Classification_using.pdf" target="_blank">[Slides (PDF)]</a>)  
 - Resource-Constrained Optimization for On-Premise Deployment of LLM Applications (Master Thesis)  
 - Design and Implementation of an LLM-Powered GUI Agent System for Automated Interface Interaction (Master Thesis)  
 - Anomaly Detection and Analysis Using Simulated and Real-Time Video Data with Vision Language Models (Master Thesis)  
 - Fine-Tuning LLMs for AI-Assisted Compliance Analysis in Manufacturing (Master Thesis)  
-- Optimizing LLM Interaction with Domain-Specific Simulation via Model Fine-Tuning (Master Thesis)  
+- Optimizing LLM Interaction with Domain-Specific Simulation via Model Fine-Tuning (Master Thesis)
+- Information Extraction with LLM Agents and Code Generation based on a Model-Driven Software Platform (Master Thesis <a href="/files/student_theses/Text_Classification_using.pdf" target="_blank">[Slides (PDF)]</a>)  
 - Scalable Graph-RAG-based Knowledge System for Domain-Specific Workflow Automation with LLMs (Master Thesis <a href="/files/student_theses/Scalable_GraphRAG.pdf" target="_blank">[Slides (PDF)]</a>)  
 - Synthetic Data Creation for Training LLMs on Domain-Specific Knowledge (Master Thesis <a href="/files/student_theses/synthetic_data_creation.pdf" target="_blank">[Slides (PDF)]</a>)   
 - Training LLMs on a Domain-Specific Knowledge Base with Reinforcement Learning (Master Thesis <a href="/files/student_theses/Training_LLMs_on_domain_specific.pdf" target="_blank">[Slides (PDF)]</a>)  
