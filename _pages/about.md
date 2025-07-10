@@ -192,7 +192,7 @@ University of Stuttgart, Germany
 
 ---
 # <span id="teaching">Teaching and Supervision of Research Projects</span>
-I have designed more than 40 research topics for master students and mentored them throughout their thesis work. It includes 25 master theses and 17 smaller research projects. Altogether, that’s more than 30 master students, and most of them are now engineers working in industry after their successful graduation. We keep in touch from time to time, and it’s the kind of connection that feels both meaningful and heartwarming.
+I have designed more than 40 research topics for master students and mentored them throughout their thesis work. It includes 25 master theses and 17 smaller research projects. Altogether, that’s more than 30 master students, and most of them are now engineers working in industry after their successful graduation. We keep in touch from time to time.
 
 ## List of supervised students' theses:
 ### 2025 (ongoing)
