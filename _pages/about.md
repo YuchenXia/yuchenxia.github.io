@@ -252,8 +252,8 @@ I have designed more than 40 research topics for master students and mentored th
 
 ---
 ## Contact
-Yuchen Xia
-Institute of Industrial Automation and Software Engineering  
+Yuchen Xia  
+Institute of Industrial Automation and Software Engineering 
 University of Stuttgart  
 Pfaffenwaldring 47  
 70550 Stuttgart, Germany  
