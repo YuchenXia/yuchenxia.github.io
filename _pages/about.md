@@ -13,7 +13,7 @@ redirect_from:
 Institute of Industrial Automation and Software Engineering (IAS)  
 University of Stuttgart, Germany  
 
-<p> Hi, nice to see you!👋 I am a final-year Ph.D. candidate at the Institute of Industrial Automation and Software Engineering <a href="https://www.ias.uni-stuttgart.de/" target="_blank">(IAS)</a>, University of Stuttgart. I am doing research with my professors Prof. Dr.-Ing. Dr. h. c. <a href="https://de.wikipedia.org/wiki/Michael_Weyrich" target="_blank">Michael Weyrich</a> and Prof. Dr.-Ing. <a href="https://www.jazdi.de/" target="_blank">Nasser Jazdi</a>. We've developed several tech solutions that are being used in industry, and we're currently collaborating with industry partners to incubate new automation products powered by LLM agents across various projects. I am now focusing on industry projects and writing my dissertation titled "Integrating Large Language Model Agents with Digital Twins for Industrial Automation". If you find the stuff here interesting, feel free to drop me a message (📧<a href="mailto:yuchen.xia@ias.uni-stuttgart.de">yuchen.xia@ias.uni-stuttgart.de</a>).</p>
+<p> Hi, thanks for coming over.👋 I am a final-year Ph.D. candidate at the Institute of Industrial Automation and Software Engineering <a href="https://www.ias.uni-stuttgart.de/" target="_blank">(IAS)</a>, University of Stuttgart. I am doing research with my professors Prof. Dr.-Ing. Dr. h. c. <a href="https://de.wikipedia.org/wiki/Michael_Weyrich" target="_blank">Michael Weyrich</a> and Prof. Dr.-Ing. <a href="https://www.jazdi.de/" target="_blank">Nasser Jazdi</a>. We've developed several tech solutions that are being used in industry, and we're currently collaborating with industry partners to incubate new automation products powered by LLM agents across various projects. I am now focusing on industry projects and writing my dissertation titled "Integrating Large Language Model Agents with Digital Twins for Industrial Automation". If you find the stuff here interesting, feel free to drop me a message (📧<a href="mailto:yuchen.xia@ias.uni-stuttgart.de">yuchen.xia@ias.uni-stuttgart.de</a>).</p>
 
 ---
 # Research Areas:  
@@ -25,7 +25,7 @@ University of Stuttgart, Germany
 # Academic Journey
 * Ph.D. Candidate, Industrial Automation & Software Engineering, University of Stuttgart, Germany (2020 – present)  
   *Funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).*
-* M.Sc., Mechatronics & Autonomous Systems, University of Stuttgart, Germany (2019)  
+* M.Sc., Mechatronics & Autonomous Systems, University of Stuttgart, Germany (2017-2019)  
 * B.Sc., Automotive & Engine Technology, University of Stuttgart <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank">[Wiki]</a>, Germany (2013-2017)  
   *Dual-degree program*
 * B.Eng., Mechanical Design & Automation, Wuhan University <a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank">[Wiki]</a>, China (2011-2017)  
@@ -251,7 +251,7 @@ I have designed more than 40 research topics for master students and mentored th
 
 
 ---
-## Contact
+##  
 Yuchen Xia  
 Institute of Industrial Automation and Software Engineering 
 University of Stuttgart  
