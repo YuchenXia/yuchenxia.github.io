@@ -192,7 +192,7 @@ University of Stuttgart, Germany
 
 ---
 # <span id="teaching">Teaching and Supervision of Research Projects</span>
-I have designed more than 40 research topics for master students and mentored them throughout their thesis work. Altogether, that’s more than 30 master students, and most of them are now engineers working in industry after their successful graduation. We keep in touch from time to time.
+I have designed 50 research topics for master students and mentored them throughout their thesis work. Altogether, that’s more than 30 master students, and most of them are now engineers working in industry after their successful graduation. We keep in touch from time to time.
 
 ## List of supervised students' theses:
 ### 2025 (ongoing)
@@ -235,7 +235,7 @@ I have designed more than 40 research topics for master students and mentored th
 - [18] Model Transformation and Validation for Test Case Generation (Research Project)  
 - [17] Automated Test Scenario Generation for Autonomous Driving from Accident Reports (Research Project <a href="/files/student_theses/Automated_Test_Scenario_Generation.pdf" target="_blank">[Slides (PDF)]</a>)  
 - [16] Investigation of the Explainability of LLM-Generated Results (Research Project <a href="/files/student_theses/Investigation_of_the_Explainability.pdf" target="_blank">[Slides (PDF)]</a>)
-- [15] Development of a MTP-based adapter for the integration of robot systems into higher-level process orchestration systems (Research Project )  
+- [15] Development of a MTP-based adapter for the integration of robot systems into higher-level process orchestration systems (Research Project)  
 - [14] Semantic Modeling and Automated Skill Matching Using Neural Language Models (Master Thesis <a href="/files/student_theses/semantic_modeling_and_skill.pdf" target="_blank">[Slides (PDF)]</a>)  
 - [13] Experimental Evaluation of LLMs for Semantic Matching in Automation Systems (Research Project <a href="/files/student_theses/Experimental_evaluation.pdf" target="_blank">[Slides (PDF)]</a>)  
 - [12] Development of an Enterprise Architect Plugin for Simulink Model Generation (Research Project)  
