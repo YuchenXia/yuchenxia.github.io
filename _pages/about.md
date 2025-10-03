@@ -14,7 +14,7 @@ Institute of Industrial Automation and Software Engineering (IAS)
 University of Stuttgart, Germany  
   
 
-<p> Hi👋, thanks for coming over. I am a final-year Ph.D. candidate at the Institute of Industrial Automation and Software Engineering <a href="https://www.ias.uni-stuttgart.de/" target="_blank">(IAS)</a>, University of Stuttgart. I am doing research with my professors Prof. Dr.-Ing. Dr. h. c. <a href="https://de.wikipedia.org/wiki/Michael_Weyrich" target="_blank">Michael Weyrich</a> and Prof. Dr.-Ing. <a href="https://www.jazdi.de/" target="_blank">Nasser Jazdi</a>. We've developed several tech solutions that are being used in industry, and we're currently collaborating with industry partners to incubate new automation products powered by LLM agents across various projects. I am now focusing on industry projects and writing my dissertation titled "Integrating Large Language Model Agents with Digital Twins for Task Automation". If you find the stuff here interesting, feel free to drop me a message (📧<a href="mailto:yuchen.xia@ias.uni-stuttgart.de">yuchen.xia@ias.uni-stuttgart.de</a>).</p>
+<p> Hi👋, thanks for coming over. I am a final-year Ph.D. candidate at the Institute of Industrial Automation and Software Engineering <a href="https://www.ias.uni-stuttgart.de/" target="_blank">(IAS)</a>, University of Stuttgart. I've developed several LLM-powered solutions that are being used in industry. I am now focusing on industry projects and writing my dissertation titled "Integrating Large Language Model Agents with Digital Twins for Task Automation". If you find the stuff here interesting, feel free to drop me a message (📧<a href="mailto:yuchen.xia@ias.uni-stuttgart.de">yuchen.xia@ias.uni-stuttgart.de</a>).</p>
 
 ---
 # Research Areas:  
