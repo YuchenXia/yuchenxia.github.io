@@ -17,13 +17,13 @@ University of Stuttgart, Germany
 <p> I’m a final-year PhD candidate at the Institute of Industrial Automation and Software Engineering <a href="https://www.ias.uni-stuttgart.de/" target="_blank">(IAS)</a>, University of Stuttgart. Since 2021, I have developed several LLM-powered solutions that are currently deployed in industry and am now leading an R&D project on agent systems for industrial applications. I have just completed my dissertation titled "Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems", and I will soon be relocating to another city for a new position. If you find the stuff here interesting, feel free to drop me a message for collaboration/opportunities/exchange (📧<a href="mailto:yuchen.xia@ias.uni-stuttgart.de">yuchen.xia@ias.uni-stuttgart.de</a>).</p>
 
 ---
-# Research Areas:  
+# Research Areas  
 * **Large Language Models**: Agent System, Tool-Using Agent, Generative System, Assistant System for Specialized Tasks.  
 * **Digital Twins**: Software-as-a-Service (SaaS), System Modeling, Simulation, Software Modeling, Semantic Modeling, Model-driven Software Development
 * **Automation System**: Industrial Automation, Internet of Things, Workflow and Task Automation, Robotics Application, and Automotive Application.
 
 ---
-# Academic Path
+# Academic Experience
 * Ph.D. Candidate, Industrial Automation & Software Engineering, University of Stuttgart, Germany (2020 – present)  
   *Funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).*
 * M.Sc., Mechatronics & Autonomous Systems, University of Stuttgart, Germany (2017-2019)  
@@ -198,8 +198,8 @@ I have designed 50 research topics for master students and mentored them through
 ### 2025 (ongoing)
 - [50] Adaptive Tool Selection via State Modeling for LLM Agents in Task Automation (Master Thesis)
 - [49] Secure Task Delegation for Tool-Using Language Model Agents in Workflow Automation (Master Thesis)
-- [48] Enhancing LLM Interpretability for time series with Algorithmic Feature Extraction (Master Thesis)
-- [47] Resource-Constrained Optimization for On-Premise Deployment of LLM Applications (Master Thesis) 
+- [48] Enhancing LLM Interpretability for time series with Algorithmic Feature Extraction (Master Thesis <a href="/files/student_theses/LLM_Analysis_Math.pdf" target="_blank">[Slides (PDF)]</a>)
+- [47] Resource-Constrained Optimization for On-Premise Deployment of LLM Applications (Master Thesis <a href="/files/student_theses/llm_deployment_performance.pdf" target="_blank">[Slides (PDF)]</a>) 
 - [46] Integrating Vision-Language Models and Object Recognition for Image Analysis in Manufacturing Systems (Master Thesis <a href="/files/student_theses/LLM_image_analysis.pdf" target="_blank">[Slides (PDF)]</a>) 
 - [45] Design and Implementation of an LLM-Powered GUI Agent System for Automated Interface Interaction (Master Thesis <a href="/files/student_theses/LLM_Powered_GUI.pdf" target="_blank">[Slides (PDF)]</a>) 
 - [44] Vision-Language ModelBased Anomaly Detection and Analysis Using Simulated and Camera Data (Master Thesis <a href="/files/student_theses/LLM_Anomaly_Detection.pdf" target="_blank">[Slides (PDF)]</a>) 
