@@ -14,7 +14,7 @@ Institute of Industrial Automation and Software Engineering (IAS)
 University of Stuttgart, Germany  
   
 
-<p> Hi👋, thanks for coming over. I am a final-year Ph.D. candidate at the Institute of Industrial Automation and Software Engineering <a href="https://www.ias.uni-stuttgart.de/" target="_blank">(IAS)</a>, University of Stuttgart. Since 2021, I have developed several LLM-powered solutions that are currently deployed in industry and am now leading an R&D project on agent systems for industrial applications. I have just completed writing my dissertation titled "Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems", and I will soon be relocating to another city for a new position. If you find the stuff here interesting, feel free to drop me a message for collaboration/opportunities/exchange (📧<a href="mailto:yuchen.xia@ias.uni-stuttgart.de">yuchen.xia@ias.uni-stuttgart.de</a>).</p>
+<p> I am a final-year Ph.D. candidate at the Institute of Industrial Automation and Software Engineering <a href="https://www.ias.uni-stuttgart.de/" target="_blank">(IAS)</a>, University of Stuttgart. Since 2021, I have developed several LLM-powered solutions that are currently deployed in industry and am now leading an R&D project on agent systems for industrial applications. I have just completed my dissertation titled "Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems", and I will soon be relocating to another city for a new position. If you find the stuff here interesting, feel free to drop me a message for collaboration/opportunities/exchange (📧<a href="mailto:yuchen.xia@ias.uni-stuttgart.de">yuchen.xia@ias.uni-stuttgart.de</a>).</p>
 
 ---
 # Research Areas:  
@@ -23,7 +23,7 @@ University of Stuttgart, Germany
 * **Automation System**: Industrial Automation, Internet of Things, Workflow and Task Automation, Robotics Application, and Automotive Application.
 
 ---
-# Academic Journey
+# Academic Path
 * Ph.D. Candidate, Industrial Automation & Software Engineering, University of Stuttgart, Germany (2020 – present)  
   *Funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).*
 * M.Sc., Mechatronics & Autonomous Systems, University of Stuttgart, Germany (2017-2019)  
