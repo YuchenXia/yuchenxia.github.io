@@ -14,7 +14,7 @@ Institute of Industrial Automation and Software Engineering (IAS)
 University of Stuttgart, Germany  
   
 
-<p> I’m a final-year PhD candidate at the Institute of Industrial Automation and Software Engineering <a href="https://www.ias.uni-stuttgart.de/" target="_blank">(IAS)</a>, University of Stuttgart. Since 2021, I have developed several LLM-powered solutions that are currently deployed in industry and am now leading an R&D project on agent systems for industrial applications. I have just completed my dissertation titled "Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems", and I will soon be relocating to another city for a new position. If you find the stuff here interesting, feel free to drop me a message for collaboration/opportunities/exchange (📧<a href="mailto:yuchen.xia@ias.uni-stuttgart.de">yuchen.xia@ias.uni-stuttgart.de</a>).</p>
+<p> I’m a final-year PhD candidate at the Institute of Industrial Automation and Software Engineering <a href="https://www.ias.uni-stuttgart.de/" target="_blank">(IAS)</a>, University of Stuttgart. Since 2021, I have developed several LLM-powered solutions that are currently deployed in industry and am now leading an R&D project on agent systems for industrial applications. I have just completed my dissertation titled "Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems", and I will soon be relocating to another city for a new position. If you find the stuff here interesting, feel free to drop me a message for exchange/opportunities/collaboration (📧<a href="mailto:yuchen.xia@ias.uni-stuttgart.de">yuchen.xia@ias.uni-stuttgart.de</a>).</p>
 
 ---
 # Research Areas  
