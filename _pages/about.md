@@ -192,10 +192,9 @@ University of Stuttgart, Germany
 
 ---
 # <span id="teaching">Teaching and Supervision of Research Projects</span>
-I have designed 50 research topics for master students and mentored them throughout their thesis work. Altogether, that’s more than 30 master students, and most of them are now engineers working in industry after their successful graduation. We keep in touch from time to time.
-
-## List of supervised students' theses:
-### 2025 (ongoing)
+I have designed 50 research topics for master students and mentored them throughout their thesis work. Altogether, that’s more than 30 master students. Most of them are now engineers working in industry after their successful graduation. We keep in touch from time to time.
+### List of supervised students' theses:
+#### 2025 (ongoing)
 - [50] Adaptive Tool Selection via State Modeling for LLM Agents in Task Automation (Master Thesis)
 - [49] Secure Task Delegation for Tool-Using Language Model Agents in Workflow Automation (Master Thesis)
 - [48] Enhancing LLM Interpretability for time series with Algorithmic Feature Extraction (Master Thesis <a href="/files/student_theses/LLM_Analysis_Math.pdf" target="_blank">[Slides (PDF)]</a>)
@@ -211,7 +210,7 @@ I have designed 50 research topics for master students and mentored them through
 - [38] Training LLMs on a Domain-Specific Knowledge Base with Reinforcement Learning (Master Thesis <a href="/files/student_theses/Training_LLMs_on_domain_specific.pdf" target="_blank">[Slides (PDF)]</a>)  
 - [37] Development of a Simulation Platform with LLM Integration for Intelligent Manufacturing (Master Thesis <a href="/files/student_theses/Development_of_a_Simulation.pdf" target="_blank">[Slides (PDF)]</a>)  
 
-### 2024
+#### 2024
 - [36] LLM-Powered Automation of Robotic Tasks in Warehouse Systems (Research Project <a href="/files/student_theses/LLM_Powered_Automation.pdf" target="_blank">[Slides (PDF)]</a>)  
 - [35] Investigation of Textual Representation Methods for Improved Data Interpretation by LLMs in Engineering (Master Thesis <a href="/files/student_theses/Investigation_of_Textual_Representation.pdf" target="_blank">[Slides (PDF)]</a>)  
 - [34] A Comprehensive Benchmark System for Evaluating LLM Performance in Industrial Automation (Master Thesis <a href="/files/student_theses/A_Comprehensive_Benchmark_System.pdf" target="_blank">[Slides (PDF)]</a>)  
@@ -241,7 +240,7 @@ I have designed 50 research topics for master students and mentored them through
 - [12] Development of an Enterprise Architect Plugin for Simulink Model Generation (Research Project)  
 - [11] Development of a Knowledge Management System Powered by LLMs (Master Thesis <a href="/files/student_theses/knowledge_management_system.pdf" target="_blank">[Slides (PDF)]</a>)  
 
-### 2022
+#### 2022
 - [10] Capability Modeling of a Production System Using a Machine Tool Example (Master Thesis <a href="/files/student_theses/Capability_modelling_of_production_system.pdf" target="_blank">[Slides (PDF)]</a>)
 - [9] Development of a digital twin with a semantic query and command interface for a modular production facility (Master Thesis <a href="/files/student_theses/Development_of_a_digital_twin_query.pdf" target="_blank">[Slides (PDF)]</a>)
 - [8] Development of a Data Parser for Extracting Information from Technical Documents with Text Mining Methods (Research Project <a href="/files/student_theses/Development_of_a_data_parser.pdf" target="_blank">[Slides (PDF)]</a>)  
@@ -250,7 +249,7 @@ I have designed 50 research topics for master students and mentored them through
 - [5] Activity Recognition Based on Acceleration Sensor Data for a Bottle Opener (Research Project)  
 - [4] Determination of User Behavior during Power-Tool Usage Based on Measurement Data (Master Thesis)  
 
-### 2021
+#### 2021
 - [3] Evaluation of Foundation Models for Semantics-Based Classification of Standardized Data Properties (Research Project <a href="/files/student_theses/Evaluation_of_performance_of_foundation_models.pdf" target="_blank">[Slides (PDF)]</a>)  
 - [2] Development of a Graph Database to Manage Concept Descriptions in Automation Engineering (Master Thesis <a href="/files/student_theses/Erstellung_einer_Graph_Datenbank.pdf" target="_blank">[Slides (PDF)]</a>)
 - [1] Development of an ontology model for semi-automated data integration of sensor components into production systems (Master Thesis <a href="/files/student_theses/Entwicklung_eines_Ontologie_Modells.pdf" target="_blank">[Slides (PDF)]</a>)
