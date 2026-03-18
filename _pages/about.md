@@ -193,10 +193,13 @@ University of Stuttgart, Germany
 ---
 # <span id="teaching">Teaching and Supervision of Research Projects</span>
 I have designed 50 research topics for master students and mentored them throughout their thesis work. Altogether, that’s more than 30 master students. Most of them are now engineers working in industry after their successful graduation. We keep in touch from time to time.
-### List of supervised students' theses:
-#### 2025 (ongoing)
-- [50] Adaptive Tool Selection via State Modeling for LLM Agents in Task Automation (Master Thesis)
-- [49] Secure Task Delegation for Tool-Using Language Model Agents in Workflow Automation (Master Thesis)
+### List of supervised students' these:
+
+#### 2026
+- [50] Adaptive Tool Selection via State Modeling for LLM Agents in Task Automation (Master Thesis <a href="/files/student_theses/adaptive_tool_selection.pdf" target="_blank">[Slides (PDF)]</a>)
+- [49] Secure Task Delegation for Tool-Using Language Model Agents in Workflow Automation (Master Thesis <a href="/files/student_theses/secure_task_delegation.pdf" target="_blank">[Slides (PDF)]</a>)
+
+#### 2025
 - [48] Enhancing LLM Interpretability for time series with Algorithmic Feature Extraction (Master Thesis <a href="/files/student_theses/LLM_Analysis_Math.pdf" target="_blank">[Slides (PDF)]</a>)
 - [47] Resource-Constrained Optimization for On-Premise Deployment of LLM Applications (Master Thesis <a href="/files/student_theses/llm_deployment_performance.pdf" target="_blank">[Slides (PDF)]</a>) 
 - [46] Integrating Vision-Language Models and Object Recognition for Image Analysis in Manufacturing Systems (Master Thesis <a href="/files/student_theses/LLM_image_analysis.pdf" target="_blank">[Slides (PDF)]</a>) 
