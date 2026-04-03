@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yuchen Xia"
+title                    : "Yuchen Xia, Ph.D."
 title_separator          : "-"
-name                     : &name "Yuchen Xia"
+name                     : &name "Yuchen Xia, Ph.D."
 description              : &description "Research on LLM, digital twins & automation"
 url                      : https://yuchenxia.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "yuchenxia/yuchenxia.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuchen Xia (夏瑜辰)"
+  name             : "Yuchen Xia, Ph.D. (夏瑜辰)"
   pronouns         : # example: "she/her"  
   bio              : "Research on LLM, digital twins & automation"
   location         : "Stuttgart, Germany"
   employer         : "University of Stuttgart"
   uri              : "https://www.ias.uni-stuttgart.de/institut/team/Xia-00002/"
-  email            : "yuchen.xia@ias.uni-stuttgart.de" 
+  email            : "xiayuchen@whu.edu.cn" 
 
   # Academic websites
   academia         : 
