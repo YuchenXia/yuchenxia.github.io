@@ -9,11 +9,8 @@ redirect_from:
 
 <meta name="google-site-verification" content="nAq6QLeWK_4N7y6zI76rrF8NarFyycJ4y_3vVCi391E" />
 <p style="color: black; opacity: 0;">Hello, I am Yuchen Xia.</p>
-<span id="about">Ph.D.</span>  
-Institute of Industrial Automation and Software Engineering (IAS)  
-University of Stuttgart, Germany  
   
-<p>I recently completed my Ph.D. from the Institute of Industrial Automation and Software Engineering, University of Stuttgart <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">(IAS News)</a>. Since 2021, I have developed several LLM-powered solutions that are currently deployed in industry and have been leading an R&D project on agent systems for industrial applications. My dissertation, titled "Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems", focuses on bridging LLM-based agents with industrial digital twins. I will soon be relocating to another city for a new position. If you find the stuff here interesting, feel free to drop me a message for exchange/opportunities/collaboration (📧<a href="mailto:xiayuchen@whu.edu.cn">xiayuchen@whu.edu.cn</a>).</p>
+<p>I recently completed my Ph.D. from the Institute of Industrial Automation and Software Engineering, University of Stuttgart <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">(News)</a>. Since 2021, I have developed several LLM-powered solutions that are currently deployed in industry and have been leading an R&D project on agent systems for industrial applications. My dissertation, titled "Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems", focuses on bridging LLM-based agents with industrial digital twins. I will soon be **relocating to another city for a new position**. If you find the stuff here interesting, feel free to drop me a message for exchange/opportunities/collaboration (📧<a href="mailto:xiayuchen@whu.edu.cn">xiayuchen@whu.edu.cn</a>).</p>
 
 ---
 # Research Areas  
@@ -36,7 +33,8 @@ University of Stuttgart, Germany
 
 <div class="research-item">
   <div class="research-content">
-    <strong>Successful Doctoral Disputation of Ph.D. Dissertation</strong>: Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems, University of Stuttgart, March 23, 2026, Stuttgart Germany<br>
+    <strong>Successful Doctoral Disputation of Ph.D. Dissertation</strong> University of Stuttgart, March 23, 2026, Stuttgart Germany<br>
+      <p>Dissertation: <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em></p>
     <img src="/images/phd_exam.jpg" alt="phd_exam">
   </div>
 </div>
@@ -268,10 +266,7 @@ I have designed 50 research topics for master students and mentored them through
 ---
 
 Yuchen Xia  
-Institute of Industrial Automation and Software Engineering 
-University of Stuttgart  
-Pfaffenwaldring 47  
-70550 Stuttgart, Germany  
-**Email:** yuchen.xia@ias.uni-stuttgart.de  
+Stuttgart, Germany  
+**Email:** xiayuchen@whu.edu.cn
 
 ---
