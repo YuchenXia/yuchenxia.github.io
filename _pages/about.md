@@ -29,12 +29,13 @@ redirect_from:
   *Dual-degree program*
 
 ---
-# Awards and Acknowledgements
+# Acknowledgements and Awards 
 
 <div class="research-item">
   <div class="research-content">
-    <strong>Successful Doctoral Disputation of Ph.D. Dissertation</strong> University of Stuttgart, March 23, 2026, Stuttgart Germany<br>
-      <p>Dissertation: <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em></p>
+    <strong>Successful Doctoral Disputation.</strong> University of Stuttgart, March 23, 2026, Stuttgart Germany<br>
+    <a href="https://youtu.be/W65ZIAVc6IE?si=Y-CGwZ_IjRgLxe46" target="_blank">Ph.D. Defense – [Video Recording on Youtube]</a>
+    <p>Dissertation: <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em></p>
     <img src="/images/phd_exam.jpg" alt="phd_exam">
   </div>
 </div>
