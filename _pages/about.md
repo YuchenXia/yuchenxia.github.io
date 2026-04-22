@@ -20,11 +20,9 @@ redirect_from:
 
 ---
 # Academic Experience
-* Ph.D., Industrial Automation & Software Engineering, University of Stuttgart, Germany (2020 – 2026).
+* Ph.D., Industrial Automation & Software Engineering, University of Stuttgart, Germany (2020 – 2026), funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).
   
   Topic: *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems* <a href="/files/Dissertation_DS_LLM_Agents_Autonomous_Systems_YuchenXia_Online.pdf" target="_blank"> [Dissertation (PDF)] </a>
-  
-  funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).
 * M.Sc., Mechatronics & Autonomous Systems, University of Stuttgart, Germany (2017-2019)  
 * B.Sc., Automotive & Engine Technology, University of Stuttgart <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank">[Wiki]</a>, Germany (2013-2017)  
   *Dual-degree program*
