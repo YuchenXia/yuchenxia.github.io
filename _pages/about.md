@@ -34,7 +34,7 @@ redirect_from:
 <div class="research-item">
   <div class="research-content">
     <strong>Successful Ph.D. Defense</strong> at University of Stuttgart, March 23, 2026, Stuttgart Germany<br>
-    <strong>Ph.D. Defense – Video Recording Online:</strong> <a href="https://youtu.be/W65ZIAVc6IE?si=Y-CGwZ_IjRgLxe46" target="_blank">[on Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[on Bilibili]</a>
+    <strong>Ph.D. Defense – Video Recording Online:</strong> <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[on Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[on Bilibili]</a>
     <p>Dissertation: <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em></p>
     <img src="/images/phd_exam.jpg" alt="phd_exam">
   </div>
