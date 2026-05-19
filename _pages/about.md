@@ -22,10 +22,10 @@ redirect_from:
 # Academic Experience
 * Ph.D., Industrial Automation & Software Engineering, University of Stuttgart, Germany (2020 – 2026), funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).
   
-  Topic: *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems* <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank"> [🎓📑 Dissertation PDF download] </a>
+  Topic: *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems* <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank"> [Dissertation PDF] </a>
 
-  Ph.D. Defense – Video Recording Online: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 on Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 on Bilibili]</a>
-  
+  Ph.D. Defense – Video Recording Online: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[Bilibili]</a>
+
 * M.Sc., Mechatronics & Autonomous Systems, University of Stuttgart, Germany (2017-2019)  
 * B.Sc., Automotive & Engine Technology, University of Stuttgart <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank">[Wiki]</a>, Germany (2013-2017)  
   *Dual-degree program*
@@ -38,7 +38,7 @@ redirect_from:
 <div class="research-item">
   <div class="research-content">
     <strong>Successful Ph.D. Defense</strong> at University of Stuttgart, March 23, 2026, Stuttgart Germany<br>
-    <strong>Ph.D. Defense – Video Recording Online:</strong> <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[on Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[on Bilibili]</a>
+    <strong>Ph.D. Defense – Video Recording Online:</strong> <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 on Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 on Bilibili]</a>
     <p>Dissertation: <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank"> [🎓📑 Dissertation PDF download] </a> </p>
     <img src="/images/phd_exam.jpg" alt="phd_exam">
   </div>
