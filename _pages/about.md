@@ -10,7 +10,7 @@ redirect_from:
 <meta name="google-site-verification" content="nAq6QLeWK_4N7y6zI76rrF8NarFyycJ4y_3vVCi391E" />
 <p style="color: black; opacity: 0;">Hello, I am Yuchen Xia.</p>
   
-<p>I recently completed my Ph.D. from the Institute of Industrial Automation and Software Engineering, University of Stuttgart <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">(News)</a>. Since 2021, I have developed several LLM-powered solutions that are currently deployed in industry and have been leading an R&D project on agent systems for industrial applications. My dissertation, titled "Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems", focuses on bridging LLM-based agents with industrial digital twins. If you find the stuff here interesting, feel free to drop me a message for exchange/opportunities/collaboration (<a href="mailto:xiayuchen@whu.edu.cn">📧Email</a>).</p>
+<p>I recently completed my Ph.D. from the Institute of Industrial Automation and Software Engineering, University of Stuttgart <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">(News)</a>. Since 2021, I have developed several LLM-powered solutions that are currently deployed in industry and have been leading an R&D project on agent systems for industrial applications. My dissertation, titled "Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems", focuses on bridging LLM-based agents with industrial digital twins. If you find the stuff here interesting, feel free to drop me a message for exchange/opportunities/collaboration (<a href="mailto:yuchen.xia@ias.uni-stuttgart.de">📧Email</a>).</p>
 
 ---
 # Research Areas  
@@ -272,7 +272,6 @@ I have designed 50 research topics for master students and mentored them through
 
 Yuchen Xia  
 Stuttgart, Germany  
-**Email:** xiayuchen@whu.edu.cn
 **Email (DE):** yuchen.xia@ias.uni-stuttgart.de
 
 
