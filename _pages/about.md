@@ -13,13 +13,13 @@ redirect_from:
 <p>I recently completed my Ph.D. from the Institute of Industrial Automation and Software Engineering, University of Stuttgart <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">(News)</a>. Since 2021, I have developed several LLM-powered solutions that are currently deployed in industry and have been leading an R&D project on agent systems for industrial applications. My dissertation, titled "Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems", focuses on bridging LLM-based agents with industrial digital twins. If you find the stuff here interesting, feel free to drop me a message for exchange/opportunities/collaboration.</p>
 
 <p>
-  <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="_blank">Google Scholar</a>
+  <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="_blank">🎓 Google Scholar</a>
   &nbsp;|&nbsp;
-  <a href="https://github.com/YuchenXia" target="_blank">GitHub</a>
+  <a href="https://github.com/YuchenXia" target="_blank">🛠️ GitHub</a>
   &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/xiayuchen/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/xiayuchen/" target="_blank">💼 LinkedIn</a>
   &nbsp;|&nbsp;
-  <a href="mailto:contact@yuchenxia.com">Email</a>
+  <a href="mailto:contact@yuchenxia.com">📧 Email</a>
 </p>
 
 ---
