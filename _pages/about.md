@@ -36,10 +36,10 @@ redirect_from:
 
   Ph.D. Defense – Video Recording Online: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[Bilibili]</a>
 
-* M.Sc., Mechatronics & Autonomous Systems, University of Stuttgart, Germany (2017-2019)  
-* B.Sc., Automotive & Engine Technology, University of Stuttgart <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank">[Wiki]</a>, Germany (2013-2017)  
+* M.Sc., Mechatronics and Autonomous Systems, University of Stuttgart, Germany (2017-2019)  
+* B.Sc., Automotive Engineering, University of Stuttgart <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank">[Wiki]</a>, Germany (2013-2017)  
   *Dual-degree program*
-* B.Eng., Mechanical Design & Automation, Wuhan University <a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank">[Wiki]</a>, China (2011-2017)  
+* B.Eng., Mechanical Engineering & Automation, Wuhan University <a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank">[Wiki]</a>, China (2011-2017)  
   *Dual-degree program*
 
 ---
