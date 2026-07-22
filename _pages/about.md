@@ -217,7 +217,7 @@ redirect_from:
 ---
 # <span id="teaching">Teaching and Supervision of Research Projects</span>
 I have designed 50 research topics for master students and mentored them throughout their thesis work. Altogether, that’s more than 30 master students. Most of them are now engineers working in industry after their successful graduation. We keep in touch from time to time.
-### List of supervised students' these:
+### List of supervised students' theses:
 
 #### 2026
 - [50] Adaptive Tool Selection via State Modeling for LLM Agents in Task Automation (Master Thesis <a href="/files/student_theses/adaptive_tool_selection.pdf" target="_blank">[Slides (PDF)]</a>)
