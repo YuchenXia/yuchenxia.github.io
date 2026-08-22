@@ -10,23 +10,31 @@ redirect_from:
 <meta name="google-site-verification" content="nAq6QLeWK_4N7y6zI76rrF8NarFyycJ4y_3vVCi391E" />
 <p style="color: black; opacity: 0;">Hello, I am Yuchen Xia.</p>
   
-<p>I received my Ph.D. with the distinction of <i>magna cum laude</i> from the Institute of Industrial Automation and Software Engineering, University of Stuttgart <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">(News)</a>. Since 2021, I have developed several LLM-powered solutions that are currently deployed in industry and have been leading an R&D project on agent systems for industrial applications. My dissertation, titled "Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems", focuses on bridging LLM-based agents with industrial digital twins. If you find the stuff here interesting, feel free to drop me a message for exchange.</p>
-
-<p>
-  <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="_blank">🎓 Google Scholar</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/YuchenXia" target="_blank">🛠️ GitHub</a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/xiayuchen/" target="_blank">💼 LinkedIn</a>
-  &nbsp;|&nbsp;
-  <a href="mailto:contact@yuchenxia.com">📧 Email</a>
-</p>
+<p> I am a postdoctoral researcher in industrial AI, working on LLM agents, digital twins, and autonomous industrial systems. Since 2021, I have led two R&D projects on industrial agent systems and developed multiple LLM-powered solutions deployed in real-world industrial applications.</p>
 
 ---
-# Research Areas  
-* **Large Language Models**: Agent System, Tool-Using Agent, Generative System, Assistant System for Specialized Tasks.  
-* **Digital Twins**: Software-as-a-Service (SaaS), System Modeling, Simulation, Software Modeling, Semantic Modeling, Model-driven Software Development
-* **Automation System**: Industrial Automation, Internet of Things, Workflow and Task Automation, Robotics Application, and Automotive Application.
+# Acknowledgements and Highlights 
+
+<div class="research-item">
+  <div class="research-content">
+    <strong>Ph.D. with magna cum laude</strong> at University of Stuttgart, March 23, 2026, Stuttgart Germany.  <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">News</a><br>
+    <strong>Defense Presentation Recording Online:</strong> <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 on Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 on Bilibili]</a>
+    <p>Dissertation: <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank"> [🎓📑 Dissertation PDF download] </a> </p>
+    <img src="/images/phd_exam.jpg" alt="phd_exam">
+  </div>
+</div>
+
+<div class="research-item">
+  <strong>🏆 atp award — VDI (Association of German Engineers), Automation 2025 Conference</strong>, July 01, 2025, Baden-Baden, Germany<br>
+  <p>For research: <em>Applying Large Language Models for intelligent industrial automation</em>.</p>
+  <img src="/images/automation2025.png" alt="vdi_atp_award_image">
+</div>
+
+<div class="research-item">
+  <strong>🏆 Best-Paper Award, IEEE ETFA 2024</strong>, Sep 13, 2024, Padova, Italy <br> 
+  <p>For research: <em>LLM Experiments with Simulation: Multi-Agent System for Simulation Model Parameterization in Digital Twins</em>.</p>
+  <img src="/images/etfa2024.png" alt="etfa2024_award_image">
+</div>
 
 ---
 # Academic Experience
@@ -41,30 +49,6 @@ redirect_from:
   *Dual-degree program*
 * B.Eng., Mechanical Engineering & Automation, Wuhan University <a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank">[Wiki]</a>, China (2011-2017)  
   *Dual-degree program*
-
----
-# Acknowledgements and Awards 
-
-<div class="research-item">
-  <div class="research-content">
-    <strong>Successful Ph.D. Defense</strong> at University of Stuttgart, March 23, 2026, Stuttgart Germany<br>
-    <strong>Ph.D. Defense – Video Recording Online:</strong> <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 on Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 on Bilibili]</a>
-    <p>Dissertation: <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank"> [🎓📑 Dissertation PDF download] </a> </p>
-    <img src="/images/phd_exam.jpg" alt="phd_exam">
-  </div>
-</div>
-
-<div class="research-item">
-  <strong>🏆 atp award, VDI-Wissensforum, Automation 2025</strong>, July 01, 2025, Baden-Baden, Germany<br>
-  <p>For research: <em>Applying Large Language Models for intelligent industrial automation</em>.</p>
-  <img src="/images/automation2025.png" alt="vdi_atp_award_image">
-</div>
-
-<div class="research-item">
-  <strong>🏆 Best-Paper Award, IEEE ETFA 2024</strong>, Sep 13, 2024, Padova, Italy <br> 
-  <p>For research: <em>LLM Experiments with Simulation: Multi-Agent System for Simulation Model Parameterization in Digital Twins</em>.</p>
-  <img src="/images/etfa2024.png" alt="etfa2024_award_image">
-</div>
 
 ---
 # <span id="research">Research</span>
@@ -181,18 +165,6 @@ redirect_from:
   </div>
 </div>
 
-<div class="research-item">
-  <div class="research-content">
-    <p><strong>An Architecture for Integrating Large Language Models with Digital Twins and Automation Systems,</strong> Yuchen Xia, Nasser Jazdi, Michael Weyrich, <em>IEEE 30th ETFA, 2025</em>,
-    <a href="/files/architecture_for_integrating_large_language_models.pdf" target="_blank">[Preprint (PDF)]</a>
-    </p>
-  </div>
-  <div class="research-image">
-    <p>TLDR: Layered architecture and modeling methods for integrating LLMs, digital twins, and automation systems.</p>
-    <img src="/images/research/modeling_methods.png" alt="modeling_methods.png">
-  </div>
-</div>
-
 ---
 # <span id="publications">Publications</span> <small>(also see <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="\_blank">Google Scholar</a>)</small>
 
@@ -283,7 +255,18 @@ I have designed 50 research topics for master students and mentored them through
 
 
 ---
-
 Yuchen Xia
 Email: contact@yuchenxia.com
+
+
+<p>
+  <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="_blank">🎓 Google Scholar</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/YuchenXia" target="_blank">🛠️ GitHub</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/xiayuchen/" target="_blank">💼 LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:contact@yuchenxia.com">📧 Email</a>
+</p>
+
 ---
