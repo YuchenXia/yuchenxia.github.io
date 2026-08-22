@@ -28,12 +28,12 @@ author: zh
   *双学位项目*
 
 ---
-# 业界认可
+# 学术界与工业界认可
 
 <div class="research-item">
   <div class="research-content">
-    2026 年 3 月 23 日于德国斯图加特大学<strong>以 magna cum laude（优等）成绩获得博士学位</strong>。<a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">[新闻]</a><br>
-    <strong>博士答辩报告录像：</strong> <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 YouTube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 哔哩哔哩]</a>
+    2026 年 3 月 23 日于德国斯图加特大学<strong>以 magna cum laude（荣誉优等毕业）成绩获得博士学位</strong>。<a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">[新闻]</a><br>
+    <strong>博士答辩录像：</strong> <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 YouTube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 哔哩哔哩]</a>
     <p>博士论文：<em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[🎓📑 博士论文]</a></p>
     <img src="/images/phd_exam.jpg" alt="博士答辩">
   </div>
