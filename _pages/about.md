@@ -15,7 +15,7 @@ redirect_from:
 ---
 # Academic Experience
 
-  Ph.D. (magna cum laude), Institute for Industrial Automation and Software Engineering, University of Stuttgart, Germany, 2020–2026
+* Ph.D. (magna cum laude), Institute for Industrial Automation and Software Engineering, University of Stuttgart, Germany, 2020–2026
   Funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).  
   Dissertation title: *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems*  
   <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[Dissertation]</a>
