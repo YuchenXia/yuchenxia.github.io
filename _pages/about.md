@@ -1,6 +1,9 @@
 ---
 permalink: /
 title: ""
+lang: en
+seo_title: "Yuchen Xia"
+description: "Personal homepage of Yuchen Xia, a postdoctoral researcher working on LLM agents, digital twins, and industrial automation."
 author_profile: true
 redirect_from: 
   - /about/
