@@ -64,7 +64,7 @@ redirect_from:
     </p>
 
     <p>
-      Following the successful Phase I proof of concept, Phase II focuses on scaling the system to orchestrate additional simulation capabilities and support multi-objective optimization.
+      Following the successful Phase I proof of concept, Phase II focuses on scaling the system to solve more complex tasks through model orchestration and automate multi-objective optimization.
     </p>
 
     <p>
