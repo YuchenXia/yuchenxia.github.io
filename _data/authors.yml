@@ -1,18 +1,24 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name        : "Yuchen Xia"
+  email       : "contact@yuchenxia.com"
+  avatar      : "profile.png"
+  googlescholar: "https://scholar.google.com/citations?user=hi1srxkAAAAJ"
+  orcid        : "http://orcid.org/0009-0009-6777-2404"
+  researchgate : "https://www.researchgate.net/profile/Yuchen-Xia-4"
+  github       : "YuchenXia"
+  linkedin     : "xiayuchen"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+
+zh:
+  name         : "夏瑜辰 博士"
+  email        : "contact@yuchenxia.com"
+  bio          : "研究方向：大语言模型、数字孪生与工业自动化"
+  avatar       : "profile.png"
+  location     : "德国·斯图加特"
+  googlescholar: "https://scholar.google.com/citations?user=hi1srxkAAAAJ"
+  orcid        : "http://orcid.org/0009-0009-6777-2404"
+  researchgate : "https://www.researchgate.net/profile/Yuchen-Xia-4"
+  github       : "YuchenXia"
+  linkedin     : "xiayuchen"

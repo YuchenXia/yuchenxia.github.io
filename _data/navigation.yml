@@ -8,7 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "About"
+  - title: "Main Page"
     url: /#about
 
   - title: "Research"
@@ -37,3 +37,16 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
+
+zh:
+  - title: "主页"
+    url: /zh/#about
+
+  - title: "研究"
+    url: /zh/#research
+
+  - title: "论文"
+    url: /zh/#publications
+
+  - title: "教学"
+    url: /zh/#teaching
