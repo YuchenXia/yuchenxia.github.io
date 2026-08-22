@@ -9,3 +9,29 @@
     max-width: 100%;
     height: auto;
 }
+
+.language-switch {
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.masthead__utilities {
+    white-space: nowrap;
+}
+
+.masthead__utilities-inner {
+    display: flex;
+    align-items: center;
+}
+
+.masthead__utilities-inner > #theme-toggle {
+    display: flex;
+}
+
+.masthead__utilities-inner > #theme-toggle a {
+    margin-left: 0;
+}
+
+html[lang^="zh"] body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", "Microsoft YaHei", "PingFang SC", sans-serif;
+}
