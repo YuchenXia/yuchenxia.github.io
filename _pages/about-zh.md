@@ -179,8 +179,8 @@ author: zh
 <div class="research-item">
   <div class="research-content">
     <p><strong>Applying Large Language Models for Intelligent Industrial Automation,</strong> Yuchen Xia, Nasser Jazdi, Michael Weyrich, <em>atp magazin, Vol. 66, No. 6-7, pp. 62-71, 2024</em>,
-    <a href="https://atpinfo.de/wp-content/uploads/2025/04/xia.pdf" target="_blank">[atp 杂志论文（PDF）]</a>
-    <a href="https://atpinfo.de/" target="_blank">[订阅 atp 杂志]</a>
+    <a href="https://atpinfo.de/wp-content/uploads/2025/04/xia.pdf" target="_blank">[atp 期刊（PDF）]</a>
+    <a href="https://atpinfo.de/" target="_blank">[订阅 atp 期刊]</a>
     🏆 VDI-Wissensforum Automation 2025 atp 奖
     </p>
   </div>
