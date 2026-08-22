@@ -196,71 +196,83 @@ I have designed 50 research topics for master students and mentored them through
 
 #### 2026
 
-- [50] Master Thesis · Adaptive Tool Selection via State Modeling for LLM Agents in Task Automation <a href="/files/student_theses/adaptive_tool_selection.pdf" target="_blank">[Slides]</a>
-- [49] Master Thesis · Secure Task Delegation for Tool-Using Language Model Agents in Workflow Automation <a href="/files/student_theses/secure_task_delegation.pdf" target="_blank">[Slides]</a>
+| No. | Type | Title | Material |
+|---:|---|---|:---:|
+| 50 | Master Thesis | Adaptive Tool Selection via State Modeling for LLM Agents in Task Automation | [Slides](/files/student_theses/adaptive_tool_selection.pdf) |
+| 49 | Master Thesis | Secure Task Delegation for Tool-Using Language Model Agents in Workflow Automation | [Slides](/files/student_theses/secure_task_delegation.pdf) |
 
 #### 2025
 
-- [48] Master Thesis · Enhancing LLM Interpretability for Time Series with Algorithmic Feature Extraction <a href="/files/student_theses/LLM_Analysis_Math.pdf" target="_blank">[Slides]</a>
-- [47] Master Thesis · Resource-Constrained Optimization for On-Premise Deployment of LLM Applications <a href="/files/student_theses/llm_deployment_performance.pdf" target="_blank">[Slides]</a>
-- [46] Master Thesis · Integrating Vision-Language Models and Object Recognition for Image Analysis in Manufacturing Systems <a href="/files/student_theses/LLM_image_analysis.pdf" target="_blank">[Slides]</a>
-- [45] Master Thesis · Design and Implementation of an LLM-Powered GUI Agent System for Automated Interface Interaction <a href="/files/student_theses/LLM_Powered_GUI.pdf" target="_blank">[Slides]</a>
-- [44] Master Thesis · Vision-Language Model-Based Anomaly Detection and Analysis Using Simulated and Camera Data <a href="/files/student_theses/LLM_Anomaly_Detection.pdf" target="_blank">[Slides]</a>
-- [43] Master Thesis · Large Language Model Agents for AI-Assisted Document Editing for Manufacturing Process Compliance <a href="/files/student_theses/AI_assisted_document_editing.pdf" target="_blank">[Slides]</a>
-- [42] Master Thesis · Optimizing LLM Interaction with Domain-Specific Simulation via Model Fine-Tuning <a href="/files/student_theses/LLM_interaction_with_simulation.pdf" target="_blank">[Slides]</a>
-- [41] Master Thesis · Information Extraction with LLM Agents and Code Generation based on a Model-Driven Software Platform <a href="/files/student_theses/Text_Classification_using.pdf" target="_blank">[Slides]</a>
-- [40] Master Thesis · Scalable Graph-RAG-based Knowledge System for Domain-Specific Workflow Automation with LLMs <a href="/files/student_theses/Scalable_GraphRAG.pdf" target="_blank">[Slides]</a>
-- [39] Master Thesis · Synthetic Data Creation for Training LLMs on Domain-Specific Knowledge <a href="/files/student_theses/synthetic_data_creation.pdf" target="_blank">[Slides]</a>
-- [38] Master Thesis · Training LLMs on a Domain-Specific Knowledge Base with Reinforcement Learning <a href="/files/student_theses/Training_LLMs_on_domain_specific.pdf" target="_blank">[Slides]</a>
-- [37] Master Thesis · Development of a Simulation Platform with LLM Integration for Intelligent Manufacturing <a href="/files/student_theses/Development_of_a_Simulation.pdf" target="_blank">[Slides]</a>
+| No. | Type | Title | Material |
+|---:|---|---|:---:|
+| 48 | Master Thesis | Enhancing LLM Interpretability for time series with Algorithmic Feature Extraction | [Slides](/files/student_theses/LLM_Analysis_Math.pdf) |
+| 47 | Master Thesis | Resource-Constrained Optimization for On-Premise Deployment of LLM Applications | [Slides](/files/student_theses/llm_deployment_performance.pdf) |
+| 46 | Master Thesis | Integrating Vision-Language Models and Object Recognition for Image Analysis in Manufacturing Systems | [Slides](/files/student_theses/LLM_image_analysis.pdf) |
+| 45 | Master Thesis | Design and Implementation of an LLM-Powered GUI Agent System for Automated Interface Interaction | [Slides](/files/student_theses/LLM_Powered_GUI.pdf) |
+| 44 | Master Thesis | Vision-Language ModelBased Anomaly Detection and Analysis Using Simulated and Camera Data | [Slides](/files/student_theses/LLM_Anomaly_Detection.pdf) |
+| 43 | Master Thesis | Large Language Model Agents for AI-Assisted Document Editing for Manufacturing Process Compliance | [Slides](/files/student_theses/AI_assisted_document_editing.pdf) |
+| 42 | Master Thesis | Optimizing LLM Interaction with Domain-Specific Simulation via Model Fine-Tuning | [Slides](/files/student_theses/LLM_interaction_with_simulation.pdf) |
+| 41 | Master Thesis | Information Extraction with LLM Agents and Code Generation based on a Model-Driven Software Platform | [Slides](/files/student_theses/Text_Classification_using.pdf) |
+| 40 | Master Thesis | Scalable Graph-RAG-based Knowledge System for Domain-Specific Workflow Automation with LLMs | [Slides](/files/student_theses/Scalable_GraphRAG.pdf) |
+| 39 | Master Thesis | Synthetic Data Creation for Training LLMs on Domain-Specific Knowledge | [Slides](/files/student_theses/synthetic_data_creation.pdf) |
+| 38 | Master Thesis | Training LLMs on a Domain-Specific Knowledge Base with Reinforcement Learning | [Slides](/files/student_theses/Training_LLMs_on_domain_specific.pdf) |
+| 37 | Master Thesis | Development of a Simulation Platform with LLM Integration for Intelligent Manufacturing | [Slides](/files/student_theses/Development_of_a_Simulation.pdf) |
 
 #### 2024
 
-- [36] Research Thesis · LLM-Powered Automation of Robotic Tasks in Warehouse Systems <a href="/files/student_theses/LLM_Powered_Automation.pdf" target="_blank">[Slides]</a>
-- [35] Master Thesis · Investigation of Textual Representation Methods for Improved Data Interpretation by LLMs in Engineering <a href="/files/student_theses/Investigation_of_Textual_Representation.pdf" target="_blank">[Slides]</a>
-- [34] Master Thesis · A Comprehensive Benchmark System for Evaluating LLM Performance in Industrial Automation <a href="/files/student_theses/A_Comprehensive_Benchmark_System.pdf" target="_blank">[Slides]</a>
-- [33] Research Thesis · Evaluating PDDL-Based and LLM-Based Task Planning of Robot Behavior for Production Processes <a href="/files/student_theses/PDDL_LLM.pdf" target="_blank">[Slides]</a>
-- [32] Master Thesis · Automating Safety and Risk Management with LLM Agents <a href="/files/student_theses/Automating_Safety_and_Risk_Management.pdf" target="_blank">[Slides]</a>
-- [31] Research Thesis · Fine-Tuning LLMs for Enhanced Semantic Interpretation of Microservices in Automation Systems <a href="/files/student_theses/Fine-tuning_of_Large_Language_Models.pdf" target="_blank">[Slides]</a>
-- [30] Research Thesis · Transforming Vehicle User Manuals into an Interactive AI Chatbot Powered by LLMs <a href="/files/student_theses/Transforming_Vehicle_User_Manuals.pdf" target="_blank">[Slides]</a>
-- [29] Master Thesis · Synthetic Training Data Creation for Supervised Fine-Tuning of LLMs for Autonomous Production Planning <a href="/files/student_theses/Synthetic_training_data_creation.pdf" target="_blank">[Slides]</a>
-- [28] Master Thesis · Integrating LLM Agents with Embedded Systems for Smart Oven Control <a href="/files/student_theses/Integrating_Large_Language_Model_Agents.pdf" target="_blank">[Slides]</a>
-- [27] Research Thesis · Survey on LLMs for Applications in Industrial Automation and Software Engineering <a href="/files/student_theses/Survey_on_Large_Language_Models.pdf" target="_blank">[Slides]</a>
+| No. | Type | Title | Material |
+|---:|---|---|:---:|
+| 36 | Research Thesis | LLM-Powered Automation of Robotic Tasks in Warehouse Systems | [Slides](/files/student_theses/LLM_Powered_Automation.pdf) |
+| 35 | Master Thesis | Investigation of Textual Representation Methods for Improved Data Interpretation by LLMs in Engineering | [Slides](/files/student_theses/Investigation_of_Textual_Representation.pdf) |
+| 34 | Master Thesis | A Comprehensive Benchmark System for Evaluating LLM Performance in Industrial Automation | [Slides](/files/student_theses/A_Comprehensive_Benchmark_System.pdf) |
+| 33 | Research Thesis | Evaluating PDDL-Based and LLM-Based Task Planning of Robot Behavior for Production Processes | [Slides](/files/student_theses/PDDL_LLM.pdf) |
+| 32 | Master Thesis | Automating Safety and Risk Management with LLM Agents | [Slides](/files/student_theses/Automating_Safety_and_Risk_Management.pdf) |
+| 31 | Research Thesis | Fine-Tuning LLMs for Enhanced Semantic Interpretation of Microservices in Automation Systems | [Slides](/files/student_theses/Fine-tuning_of_Large_Language_Models.pdf) |
+| 30 | Research Thesis | Transforming Vehicle User Manuals into an Interactive AI Chatbot Powered by LLMs | [Slides](/files/student_theses/Transforming_Vehicle_User_Manuals.pdf) |
+| 29 | Master Thesis | Synthetic Training Data Creation for Supervised Fine-Tuning of LLMs for Autonomous Production Planning | [Slides](/files/student_theses/Synthetic_training_data_creation.pdf) |
+| 28 | Master Thesis | Integrating LLM Agents with Embedded Systems for Smart Oven Control | [Slides](/files/student_theses/Integrating_Large_Language_Model_Agents.pdf) |
+| 27 | Research Thesis | Survey on LLMs for Applications in Industrial Automation and Software Engineering | [Slides](/files/student_theses/Survey_on_Large_Language_Models.pdf) |
 
 #### 2023
 
-- [26] Research Thesis · Large Language Models for OPC UA Server Data Retrieval <a href="/files/student_theses/Large_Language_Models_for_OPC_UA.pdf" target="_blank">[Slides]</a>
-- [25] Bachelor Thesis · Generation of Simscape Models Using Large Language Models
-- [24] Master Thesis · Design of a modular architecture for efficient and intelligent system integration and control
-- [23] Master Thesis · Refining Automation Systems for Enhanced Modular Control <a href="/files/student_theses/Refining_Automation_Systems.pdf" target="_blank">[Slides]</a>
-- [22] Research Thesis · Information Mining of Traffic Maps for Test Case Generation
-- [21] Research Thesis · Interpretability Study of LLMs with Probing Techniques <a href="/files/student_theses/Interpretability_Study.pdf" target="_blank">[Slides]</a>
-- [20] Research Thesis · Evaluation of Quantized LLMs for Semantic Interpretation and Reasoning in Industrial Automation <a href="/files/student_theses/Evaluation_of_Quantized.pdf" target="_blank">[Slides]</a>
-- [19] Research Thesis · Prompt Optimization with a Dual GPT-Agent Feedback System <a href="/files/student_theses/Prompt_Optimization.pdf" target="_blank">[Slides]</a>
-- [18] Research Thesis · Model Transformation and Validation for Test Case Generation
-- [17] Research Thesis · Automated Test Scenario Generation for Autonomous Driving from Accident Reports <a href="/files/student_theses/Automated_Test_Scenario_Generation.pdf" target="_blank">[Slides]</a>
-- [16] Research Thesis · Investigation of the Explainability of LLM-Generated Results <a href="/files/student_theses/Investigation_of_the_Explainability.pdf" target="_blank">[Slides]</a>
-- [15] Research Thesis · Development of a MTP-based adapter for the integration of robot systems into higher-level process orchestration systems
-- [14] Master Thesis · Semantic Modeling and Automated Skill Matching Using Neural Language Models <a href="/files/student_theses/semantic_modeling_and_skill.pdf" target="_blank">[Slides]</a>
-- [13] Research Thesis · Experimental Evaluation of LLMs for Semantic Matching in Automation Systems <a href="/files/student_theses/Experimental_evaluation.pdf" target="_blank">[Slides]</a>
-- [12] Research Thesis · Development of an Enterprise Architect Plugin for Simulink Model Generation
-- [11] Master Thesis · Development of a Knowledge Management System Powered by LLMs <a href="/files/student_theses/knowledge_management_system.pdf" target="_blank">[Slides]</a>
+| No. | Type | Title | Material |
+|---:|---|---|:---:|
+| 26 | Research Thesis | Large Language Models for OPC UA Server Data Retrieval | [Slides](/files/student_theses/Large_Language_Models_for_OPC_UA.pdf) |
+| 25 | Bachelor Thesis | Generation of Simscape Models Using Large Language Models | — |
+| 24 | Master Thesis | Design of a modular architecture for efficient and intelligent system integration and control | — |
+| 23 | Master Thesis | Refining Automation Systems for Enhanced Modular Control | [Slides](/files/student_theses/Refining_Automation_Systems.pdf) |
+| 22 | Research Thesis | Information Mining of Traffic Maps for Test Case Generation | — |
+| 21 | Research Thesis | Interpretability Study of LLMs with Probing Techniques | [Slides](/files/student_theses/Interpretability_Study.pdf) |
+| 20 | Research Thesis | Evaluation of Quantized LLMs for Semantic Interpretation and Reasoning in Industrial Automation | [Slides](/files/student_theses/Evaluation_of_Quantized.pdf) |
+| 19 | Research Thesis | Prompt Optimization with a Dual GPT-Agent Feedback System | [Slides](/files/student_theses/Prompt_Optimization.pdf) |
+| 18 | Research Thesis | Model Transformation and Validation for Test Case Generation | — |
+| 17 | Research Thesis | Automated Test Scenario Generation for Autonomous Driving from Accident Reports | [Slides](/files/student_theses/Automated_Test_Scenario_Generation.pdf) |
+| 16 | Research Thesis | Investigation of the Explainability of LLM-Generated Results | [Slides](/files/student_theses/Investigation_of_the_Explainability.pdf) |
+| 15 | Research Thesis | Development of a MTP-based adapter for the integration of robot systems into higher-level process orchestration systems | — |
+| 14 | Master Thesis | Semantic Modeling and Automated Skill Matching Using Neural Language Models | [Slides](/files/student_theses/semantic_modeling_and_skill.pdf) |
+| 13 | Research Thesis | Experimental Evaluation of LLMs for Semantic Matching in Automation Systems | [Slides](/files/student_theses/Experimental_evaluation.pdf) |
+| 12 | Research Thesis | Development of an Enterprise Architect Plugin for Simulink Model Generation | — |
+| 11 | Master Thesis | Development of a Knowledge Management System Powered by LLMs | [Slides](/files/student_theses/knowledge_management_system.pdf) |
 
 #### 2022
 
-- [10] Master Thesis · Capability Modeling of a Production System Using a Machine Tool Example <a href="/files/student_theses/Capability_modelling_of_production_system.pdf" target="_blank">[Slides]</a>
-- [9] Master Thesis · Development of a digital twin with a semantic query and command interface for a modular production facility <a href="/files/student_theses/Development_of_a_digital_twin_query.pdf" target="_blank">[Slides]</a>
-- [8] Research Thesis · Development of a Data Parser for Extracting Information from Technical Documents with Text Mining Methods <a href="/files/student_theses/Development_of_a_data_parser.pdf" target="_blank">[Slides]</a>
-- [7] Master Thesis · Generation of a Knowledge Graph from Textual Data for Describing Causal System Behaviors <a href="/files/student_theses/Generation_of_knowledge_graph.pdf" target="_blank">[Slides]</a>
-- [6] Master Thesis · Training of General Neural Language Models for Automated Semantic Interpretation of Data Properties <a href="/files/student_theses/Finetuning_of_general_neural_language_models.pdf" target="_blank">[Slides]</a>
-- [5] Research Thesis · Activity Recognition Based on Acceleration Sensor Data for a Bottle Opener
-- [4] Master Thesis · Determination of User Behavior during Power-Tool Usage Based on Measurement Data
+| No. | Type | Title | Material |
+|---:|---|---|:---:|
+| 10 | Master Thesis | Capability Modeling of a Production System Using a Machine Tool Example | [Slides](/files/student_theses/Capability_modelling_of_production_system.pdf) |
+| 9 | Master Thesis | Development of a digital twin with a semantic query and command interface for a modular production facility | [Slides](/files/student_theses/Development_of_a_digital_twin_query.pdf) |
+| 8 | Research Thesis | Development of a Data Parser for Extracting Information from Technical Documents with Text Mining Methods | [Slides](/files/student_theses/Development_of_a_data_parser.pdf) |
+| 7 | Master Thesis | Generation of a Knowledge Graph from Textual Data for Describing Causal System Behaviors | [Slides](/files/student_theses/Generation_of_knowledge_graph.pdf) |
+| 6 | Master Thesis | Training of General Neural Language Models for Automated Semantic Interpretation of Data Properties | [Slides](/files/student_theses/Finetuning_of_general_neural_language_models.pdf) |
+| 5 | Research Thesis | Activity Recognition Based on Acceleration Sensor Data for a Bottle Opener | — |
+| 4 | Master Thesis | Determination of User Behavior during Power-Tool Usage Based on Measurement Data | — |
 
 #### 2021
 
-- [3] Research Thesis · Evaluation of Foundation Models for Semantics-Based Classification of Standardized Data Properties <a href="/files/student_theses/Evaluation_of_performance_of_foundation_models.pdf" target="_blank">[Slides]</a>
-- [2] Master Thesis · Development of a Graph Database to Manage Concept Descriptions in Automation Engineering <a href="/files/student_theses/Erstellung_einer_Graph_Datenbank.pdf" target="_blank">[Slides]</a>
-- [1] Master Thesis · Development of an ontology model for semi-automated data integration of sensor components into production systems <a href="/files/student_theses/Entwicklung_eines_Ontologie_Modells.pdf" target="_blank">[Slides]</a>
+| No. | Type | Title | Material |
+|---:|---|---|:---:|
+| 3 | Research Thesis | Evaluation of Foundation Models for Semantics-Based Classification of Standardized Data Properties | [Slides](/files/student_theses/Evaluation_of_performance_of_foundation_models.pdf) |
+| 2 | Master Thesis | Development of a Graph Database to Manage Concept Descriptions in Automation Engineering | [Slides](/files/student_theses/Erstellung_einer_Graph_Datenbank.pdf) |
+| 1 | Master Thesis | Development of an ontology model for semi-automated data integration of sensor components into production systems | [Slides](/files/student_theses/Entwicklung_eines_Ontologie_Modells.pdf) |
 
 ---
 Yuchen Xia
