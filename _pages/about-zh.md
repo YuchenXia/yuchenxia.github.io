@@ -52,7 +52,7 @@ author: zh
 </div>
 
 ---
-# <span id="research">公开的研究成果</span>
+# <span id="research">公开研究成果</span>
 
 <div class="research-item">
   <div class="research-content">
