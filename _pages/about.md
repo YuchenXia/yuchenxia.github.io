@@ -15,7 +15,7 @@ redirect_from:
 ---
 # Academic Background
 
-* **Ph.D. (magna cum laude)**, Institute for Industrial Automation and Software Engineering, University of Stuttgart, Germany, 2020–2026
+* **Ph.D.** (magna cum laude), Institute for Industrial Automation and Software Engineering, University of Stuttgart, Germany, 2020–2026
   
   **Dissertation:** *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems* <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[Dissertation]</a>
   
@@ -259,9 +259,6 @@ I have designed 50 research topics for master students and mentored them through
 
 ---
 Yuchen Xia
-
-Email: contact@yuchenxia.com
-
 
 <p>
   <a href="https://scholar.google.de/citations?user=hi1srxkAAAAJ" target="_blank">🎓 Google Scholar</a>
