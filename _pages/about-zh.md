@@ -3,46 +3,44 @@ permalink: /zh/
 title: ""
 lang: zh-CN
 seo_title: "夏瑜辰｜个人主页"
-description: "夏瑜辰的个人学术主页，研究方向包括大语言模型智能体、数字孪生、自主工业系统与工业自动化。"
+description: "大语言模型智能体、数字孪生、自主工业系统与工业自动化"
 author_profile: true
 author: zh
 ---
 
-<p id="about" style="color: black; opacity: 0;">你好，我是夏瑜辰。</p>
-
-<p>我是一名工业人工智能方向的博士后研究员，主要研究大语言模型智能体、数字孪生与自主工业系统。自 2021 年以来，我持续深耕这一研究方向，牵头开展了两个工业智能体系统研发项目，并开发了多项已部署于真实工业场景的大语言模型解决方案。</p>
+<p>目前在工业自动化与人工智能领域从事博士后研究，主要研究大语言模型智能体、数字孪生与自主工业系统。自 2021 年投身这一研究方向以来，我在多个科研项目中主导了工业智能体系统的设计与开发，多项成果已完成交付并应用于真实工业场景。</p>
 
 ---
 # 学术背景
 
 * **博士**，德国斯图加特大学工业自动化与软件工程研究所，2020–2026
 
-  **博士论文：** *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems* <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[博士论文]</a>
+  **博士论文**: *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems* <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[博士论文]</a>
 
   博士答辩录像：<a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[YouTube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[哔哩哔哩]</a>
 
-  **资助：** 获德国经济基金会（Stiftung der Deutschen Wirtschaft）与斯图加特大学卓越先进制造工程研究生院（GSaME）全额奖学金资助。
+  **资助**： 德国经济基金会（Stiftung der Deutschen Wirtschaft）与斯图加特大学卓越先进制造工程研究生院（GSaME）全额奖学金资助。
 
 * **工学硕士，机电一体化与自主系统**，德国斯图加特大学（2017–2019）
 * **工学学士，汽车工程**，德国斯图加特大学 <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank">[维基百科]</a>（2013–2017）
   *双学位项目*
-* **工学学士，机械设计制造及其自动化**，中国武汉大学 <a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank">[维基百科]</a>（2011–2017）
+* **工学学士，机械设计制造及其自动化**，武汉大学 <a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank">[维基百科]</a>（2011–2017）
   *双学位项目*
 
 ---
-# 荣誉与致谢
+# 业界认可
 
 <div class="research-item">
   <div class="research-content">
     2026 年 3 月 23 日于德国斯图加特大学<strong>以 magna cum laude（优等）成绩获得博士学位</strong>。<a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">[新闻]</a><br>
     <strong>博士答辩报告录像：</strong> <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 YouTube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 哔哩哔哩]</a>
-    <p>博士论文：<em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[🎓📑 下载博士论文]</a></p>
+    <p>博士论文：<em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[🎓📑 博士论文]</a></p>
     <img src="/images/phd_exam.jpg" alt="博士答辩">
   </div>
 </div>
 
 <div class="research-item">
-  <strong>🏆 atp 奖 — 德国工程师协会（VDI）Automation 2025 会议</strong>，2025 年 7 月 1 日，德国巴登-巴登<br>
+  <strong>🏆 atp 最佳论文奖 — 德国工程师协会（VDI）Automation 2025 会议</strong>，2025 年 7 月 1 日，德国巴登-巴登<br>
   <p>获奖研究：<em>Applying Large Language Models for Intelligent Industrial Automation</em>。</p>
   <img src="/images/automation2025.png" alt="VDI atp 奖">
 </div>
@@ -59,7 +57,7 @@ author: zh
 <div class="research-item">
   <div class="research-content">
     <p>
-      <strong>面向制药制造的大语言模型智能体与数字孪生——斯图加特大学 × 阿斯利康技术转移项目</strong><br>
+      <strong>制药制造的大语言模型智能体与数字孪生 —— 斯图加特大学 × 阿斯利康 —— 技术转移项目</strong><br>
       担任该技术转移项目的技术负责人，研发用于支持并加速药物工艺开发的人工智能多智能体系统。大语言模型智能体利用嵌入数字孪生的高保真仿真模型自主开展受控实验，并将实验结果转化为可执行的工艺建议。
     </p>
 
@@ -89,7 +87,7 @@ author: zh
     </p>
   </div>
   <div class="research-image">
-    <p>简介：大语言模型智能体能够规划工作流程并控制自动化设备。</p>
+    <p>大语言模型智能体能够规划工作流程并控制自动化设备。</p>
     <img src="/images/research/autonomous_system_demo.gif" alt="自主工业系统演示">
   </div>
 </div>
@@ -104,7 +102,7 @@ author: zh
     </p>
   </div>
   <div class="research-image">
-    <p>简介：大语言模型智能体能够自主设计并执行仿真实验。</p>
+    <p>大语言模型智能体自主设计并执行仿真实验。</p>
     <img src="/images/research/simulation_integrated_agent_system.gif" alt="集成仿真的大语言模型智能体系统" style="max-width: 100%; height: auto;">
   </div>
 </div>
@@ -117,7 +115,7 @@ author: zh
     </p>
   </div>
   <div class="research-image">
-    <p>简介：将非结构化数据自动转换为结构化信息模型。</p>
+    <p>将非结构化数据自动转换为结构化信息模型。</p>
     <img src="/images/research/demo_AAS_generation.gif" alt="资产管理壳自动生成演示">
   </div>
 </div>
@@ -131,7 +129,7 @@ author: zh
     </p>
   </div>
   <div class="research-image">
-    <p>简介：利用大语言模型智能体控制工业自动化与机器人系统。</p>
+    <p>利用大语言模型智能体控制工业自动化与机器人系统。</p>
     <img src="/images/research/lab_demo_4_scenes.gif" alt="实验室自动化演示">
     <img src="/images/research/event_based_control.gif" alt="基于事件的控制演示">
   </div>
@@ -145,7 +143,7 @@ author: zh
     </p>
   </div>
   <div class="research-image">
-    <p>简介：利用事件与服务驱动的方法，将大语言模型应用于自动化和机器人控制。</p>
+    <p>利用事件与服务驱动的方法，将大语言模型应用于自动化和机器人控制。</p>
     <img src="/images/research/system_design.gif" alt="系统设计">
   </div>
 </div>
