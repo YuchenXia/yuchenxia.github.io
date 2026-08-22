@@ -50,3 +50,16 @@ zh:
 
   - title: "教学"
     url: /zh/#teaching
+
+de:
+  - title: "Startseite"
+    url: /de/#about
+
+  - title: "Forschung"
+    url: /de/#research
+
+  - title: "Publikationen"
+    url: /de/#publications
+
+  - title: "Lehre"
+    url: /de/#teaching

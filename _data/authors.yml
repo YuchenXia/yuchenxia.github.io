@@ -22,3 +22,16 @@ zh:
   researchgate : "https://www.researchgate.net/profile/Yuchen-Xia-4"
   github       : "YuchenXia"
   linkedin     : "xiayuchen"
+
+de:
+  name         : "Dr.-Ing. Yuchen Xia"
+  email        : "contact@yuchenxia.com"
+  bio          : "Forschung zu LLM-Agenten, digitalen Zwillingen und industrieller Automatisierung"
+  avatar       : "profile.png"
+  location     : "Stuttgart, Deutschland"
+  employer     : "Universität Stuttgart"
+  googlescholar: "https://scholar.google.com/citations?user=hi1srxkAAAAJ"
+  orcid        : "http://orcid.org/0009-0009-6777-2404"
+  researchgate : "https://www.researchgate.net/profile/Yuchen-Xia-4"
+  github       : "YuchenXia"
+  linkedin     : "xiayuchen"
