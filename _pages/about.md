@@ -274,7 +274,10 @@ I have designed 50 research topics for master students and mentored them through
 | 2 | Master Thesis | Development of a Graph Database to Manage Concept Descriptions in Automation Engineering | [Slides](/files/student_theses/Erstellung_einer_Graph_Datenbank.pdf) |
 | 1 | Master Thesis | Development of an ontology model for semi-automated data integration of sensor components into production systems | [Slides](/files/student_theses/Entwicklung_eines_Ontologie_Modells.pdf) |
 
+
 ---
+# Contact
+
 Yuchen Xia
 
 <p>
