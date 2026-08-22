@@ -60,7 +60,7 @@ redirect_from:
   <div class="research-content">
     <p>
       <strong>LLM Agents + Digital Twins for Pharmaceutical Manufacturing — Technology Transfer Project — University of Stuttgart × AstraZeneca PLC</strong><br>
-      Technical lead for a technology transfer project developing an AI multi-agent system for pharmaceutical process development. The agents autonomously conduct controlled experiments using high-fidelity scientific simulations and turn the resulting evidence into actionable process recommendations. 
+      Technical lead for a technology transfer project developing an AI multi-agent system to support and accelerate pharmaceutical process development. LLM agents autonomously conduct controlled experiments using high-fidelity simulation models embedded in digital twins, and turn the resulting evidence into actionable process recommendations. 
     </p>
 
     <p>
