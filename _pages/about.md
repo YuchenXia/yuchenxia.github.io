@@ -13,7 +13,7 @@ redirect_from:
 <p> I am a postdoctoral researcher in industrial AI, working on LLM agents, digital twins, and autonomous industrial systems. Since 2021, I have focused on this research direction, led two R&D projects on industrial agent systems, and developed multiple LLM-powered solutions deployed in real-world industrial applications. </p>
 
 ---
-# Acknowledgements and Highlights 
+# Acknowledgements
 
 <div class="research-item">
   <div class="research-content">
@@ -52,7 +52,7 @@ redirect_from:
   *Dual-degree program*
 
 ---
-# <span id="research">Research</span>
+# <span id="research">Research Highlights</span>
 
 <div class="research-item">
   <div class="research-content">
@@ -172,10 +172,10 @@ redirect_from:
 
 | Title                                                                                                                                                                                                                                                          | Year | Google Link                                                                                                                                                                                                                                           |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Simulation-Integrated LLM-Agent System for Computation Orchestration and Parameter Optimisation in Process Engineering                                                                                                    | 2026 | under review                                                                       |
 | Ph.D. Thesis: Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems                                                                                                    | 2026 | <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">📑Dissertation PDF</a> <br><a href="/files/01_phd_thesis_integrating_llm_agents_digital_twins.bib" target="_blank">🔖 Citation.bib</a>                                                                       |
 | LLM Agents Perform Controlled Experiments Using Simulation Models                                                                                                    | 2026 |IEEE ETFA under review                                                                       |
 | An Architecture for Integrating Large Language Models with Digital Twins and Automation Systems                                                                                                    | 2025 | <a href="/files/architecture_for_integrating_large_language_models.pdf" target="_blank">📑Paper preprint</a><br> <a href="https://ieeexplore.ieee.org/document/11205636/" target="_blank">📑Paper on IEEE</a> <br><a href="/files/02_architecture_llm_digital_twins_automation_systems.bib" target="_blank">🔖 Citation.bib</a>                                                                        |
-| Generate Customized ERP Software with LLM Agents and a Model-Driven Platform (under review)                                                                                                                      | 2025 |                                                                                      |
 | Control Industrial Automation Systems with Large Language Models                                                                                                                                  | 2025 | <a href="https://arxiv.org/abs/2409.18009" target="_blank">📑Paper on arxiv</a> <br><a href="https://ieeexplore.ieee.org/abstract/document/11205539" target="_blank">📑Paper on IEEE</a> <br><a href="/files/03_control_industrial_automation_llm_agents.bib" target="_blank"> 🔖 Citation.bib</a>                                                                                                        |
 | Applying Large Language Models for Intelligent Industrial Automation -🏆 **atp award 2024 – VDI Automation (July 01, 2025)**                                                                          | 2024 | <a href="https://atpinfo.de/wp-content/uploads/2025/04/xia.pdf" target="_blank">📑Paper</a> <br><a href="/files/04_applying_llms_intelligent_industrial_automation.bib" target="_blank">🔖 Citation.bib</a>                                                                    |
 | LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parameterization in Digital Twins -🏆 **Best Paper – ETFA 2024 (Sep 13, 2024)**                            | 2024 | <a href="https://arxiv.org/abs/2405.18092" target="_blank">📑Paper on arxiv</a> <br><a href="https://ieeexplore.ieee.org/document/10710900/" target="_blank">📑Paper on IEEE</a><br><a href="/files/05_llm_experiments_simulation_digital_twins.bib" target="_blank">🔖 Citation.bib</a>                                      |
