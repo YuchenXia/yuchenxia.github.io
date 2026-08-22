@@ -196,14 +196,14 @@ I have designed 50 research topics for master students and mentored them through
 
 #### 2026
 
-| No. | Type | Title | Material |
+| No. | Type | Title | - |
 |---:|---|---|:---:|
 | 50 | Master Thesis | Adaptive Tool Selection via State Modeling for LLM Agents in Task Automation | [Slides](/files/student_theses/adaptive_tool_selection.pdf) |
 | 49 | Master Thesis | Secure Task Delegation for Tool-Using Language Model Agents in Workflow Automation | [Slides](/files/student_theses/secure_task_delegation.pdf) |
 
 #### 2025
 
-| No. | Type | Title | Material |
+| No. | Type | Title | - |
 |---:|---|---|:---:|
 | 48 | Master Thesis | Enhancing LLM Interpretability for time series with Algorithmic Feature Extraction | [Slides](/files/student_theses/LLM_Analysis_Math.pdf) |
 | 47 | Master Thesis | Resource-Constrained Optimization for On-Premise Deployment of LLM Applications | [Slides](/files/student_theses/llm_deployment_performance.pdf) |
@@ -220,7 +220,7 @@ I have designed 50 research topics for master students and mentored them through
 
 #### 2024
 
-| No. | Type | Title | Material |
+| No. | Type | Title | - |
 |---:|---|---|:---:|
 | 36 | Research Thesis | LLM-Powered Automation of Robotic Tasks in Warehouse Systems | [Slides](/files/student_theses/LLM_Powered_Automation.pdf) |
 | 35 | Master Thesis | Investigation of Textual Representation Methods for Improved Data Interpretation by LLMs in Engineering | [Slides](/files/student_theses/Investigation_of_Textual_Representation.pdf) |
@@ -235,7 +235,7 @@ I have designed 50 research topics for master students and mentored them through
 
 #### 2023
 
-| No. | Type | Title | Material |
+| No. | Type | Title | - |
 |---:|---|---|:---:|
 | 26 | Research Thesis | Large Language Models for OPC UA Server Data Retrieval | [Slides](/files/student_theses/Large_Language_Models_for_OPC_UA.pdf) |
 | 25 | Bachelor Thesis | Generation of Simscape Models Using Large Language Models | — |
@@ -256,7 +256,7 @@ I have designed 50 research topics for master students and mentored them through
 
 #### 2022
 
-| No. | Type | Title | Material |
+| No. | Type | Title | - |
 |---:|---|---|:---:|
 | 10 | Master Thesis | Capability Modeling of a Production System Using a Machine Tool Example | [Slides](/files/student_theses/Capability_modelling_of_production_system.pdf) |
 | 9 | Master Thesis | Development of a digital twin with a semantic query and command interface for a modular production facility | [Slides](/files/student_theses/Development_of_a_digital_twin_query.pdf) |
@@ -268,7 +268,7 @@ I have designed 50 research topics for master students and mentored them through
 
 #### 2021
 
-| No. | Type | Title | Material |
+| No. | Type | Title | - |
 |---:|---|---|:---:|
 | 3 | Research Thesis | Evaluation of Foundation Models for Semantics-Based Classification of Standardized Data Properties | [Slides](/files/student_theses/Evaluation_of_performance_of_foundation_models.pdf) |
 | 2 | Master Thesis | Development of a Graph Database to Manage Concept Descriptions in Automation Engineering | [Slides](/files/student_theses/Erstellung_einer_Graph_Datenbank.pdf) |
