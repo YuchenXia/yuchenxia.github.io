@@ -13,6 +13,21 @@ redirect_from:
 <p> I am a postdoctoral researcher in industrial AI, working on LLM agents, digital twins, and autonomous industrial systems. Since 2021, I have focused on this research direction, led two R&D projects on industrial agent systems, and developed multiple LLM-powered solutions deployed in real-world industrial applications. </p>
 
 ---
+# Academic Experience
+
+  Ph.D. (magna cum laude), Institute for Industrial Automation and Software Engineering, University of Stuttgart, Germany, 2020–2026
+  Funded by the Stiftung der Deutschen Wirtschaft; affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).  
+  Dissertation title: *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems*  
+  <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[Dissertation]</a>
+  Ph.D. Exam Presentation Recording Online: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[Bilibili]</a>
+
+* M.Sc., Mechatronics and Autonomous Systems, University of Stuttgart, Germany (2017-2019)  
+* B.Sc., Automotive Engineering, University of Stuttgart <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank">[Wiki]</a>, Germany (2013-2017)  
+  *Dual-degree program*
+* B.Eng., Mechanical Engineering & Automation, Wuhan University <a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank">[Wiki]</a>, China (2011-2017)  
+  *Dual-degree program*
+
+---
 # Acknowledgements
 
 <div class="research-item">
@@ -35,21 +50,6 @@ redirect_from:
   <p>For research: <em>LLM Experiments with Simulation: Multi-Agent System for Simulation Model Parameterization in Digital Twins</em>.</p>
   <img src="/images/etfa2024.png" alt="etfa2024_award_image">
 </div>
-
----
-# Academic Experience
-
-* Ph.D. research at the Institute for Industrial Automation and Software Engineering, University of Stuttgart, Germany, 2020–2026  
-  Funded by the Stiftung der Deutschen Wirtschaft (Foundation of German Business); affiliated with the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME).  
-  Dissertation: *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems*  
-  <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[Dissertation]</a>
-  Ph.D. Exam Presentation Recording Online: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[Bilibili]</a>
-
-* M.Sc., Mechatronics and Autonomous Systems, University of Stuttgart, Germany (2017-2019)  
-* B.Sc., Automotive Engineering, University of Stuttgart <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank">[Wiki]</a>, Germany (2013-2017)  
-  *Dual-degree program*
-* B.Eng., Mechanical Engineering & Automation, Wuhan University <a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank">[Wiki]</a>, China (2011-2017)  
-  *Dual-degree program*
 
 ---
 # <span id="research">Research Highlights</span>
