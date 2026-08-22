@@ -15,6 +15,19 @@
     white-space: nowrap;
 }
 
+.language-switcher {
+    gap: 0.35rem;
+}
+
+.language-switch.is-active {
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+}
+
+.language-separator {
+    opacity: 0.45;
+}
+
 .masthead__utilities {
     white-space: nowrap;
 }
