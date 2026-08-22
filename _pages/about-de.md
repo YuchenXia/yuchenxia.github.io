@@ -10,7 +10,7 @@ author: de
 
 <p style="color: black; opacity: 0;">Hallo, ich bin Yuchen Xia.</p>
 
-<p>Ich bin Postdoktorand im Bereich industrielle KI und forsche an LLM-Agenten, digitalen Zwillingen und autonomen Industriesystemen. Seit 2021 arbeite ich in diesem Forschungsfeld, habe zwei F&amp;E-Projekte zu industriellen Agentensystemen geleitet und mehrere LLM-basierte Lösungen entwickelt, die in realen industriellen Anwendungen eingesetzt werden.</p>
+<p>Im Mittelpunkt meiner Forschung stehen LLM-Agenten, digitale Zwillinge und autonome industrielle Automatisierungsysteme. Seit 2021 arbeite ich in diesem Forschungsfeld, habe zwei F&amp;E-Projekte zu industriellen Agentensystemen geleitet und mehrere LLM-basierte Lösungen entwickelt, die in realen industriellen Anwendungen eingesetzt werden.</p>
 
 ---
 # Akademischer Werdegang
@@ -66,7 +66,7 @@ author: de
     <p>
       Nach dem erfolgreichen Proof of Concept in Projektphase I konzentriert sich Projektphase II auf die Skalierung des Systems: Durch Modellorchestrierung sollen komplexere Aufgaben gelöst und Mehrzieloptimierungen automatisiert werden.
     </p>
-
+    
     <p>
       Quellen:
       <a href="https://www.ias.uni-stuttgart.de/dokumente/Taetigkeitsbericht_2025_IAS.pdf" target="_blank">[IAS-Tätigkeitsbericht]</a>
