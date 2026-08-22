@@ -1,19 +1,18 @@
 {% include base_path %}
 
+{% assign current_lang = page.lang | default: "en" %}
 {% assign navigation_links = site.data.navigation.main %}
 {% assign home_url = base_path | append: "/" %}
 {% assign home_title = site.title %}
-{% assign language_url = base_path | append: "/zh/" %}
-{% assign language_label = "English/中文" %}
-{% assign language_code = "zh-CN" %}
 
-{% if page.lang == "zh-CN" %}
+{% if current_lang == "zh-CN" %}
   {% assign navigation_links = site.data.navigation.zh %}
   {% assign home_url = base_path | append: "/zh/" %}
   {% assign home_title = "夏瑜辰 — 个人主页" %}
-  {% assign language_url = base_path | append: "/" %}
-  {% assign language_label = "中文/English" %}
-  {% assign language_code = "en" %}
+{% elsif current_lang == "de" %}
+  {% assign navigation_links = site.data.navigation.de %}
+  {% assign home_url = base_path | append: "/de/" %}
+  {% assign home_title = "Yuchen Xia — Persönliche Webseite" %}
 {% endif %}
 
 <div class="masthead">
@@ -32,8 +31,12 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
           <li class="masthead__menu-item persist tail masthead__utilities">
-            <span class="masthead__utilities-inner">
-              <a id="language-switch" class="language-switch" href="{{ language_url }}" lang="{{ language_code }}" hreflang="{{ language_code }}">{{ language_label }}</a>
+            <span class="masthead__utilities-inner language-switcher" aria-label="Language selection">
+              <a class="language-switch{% if current_lang == "en" %} is-active{% endif %}" href="{{ base_path }}/" lang="en" hreflang="en"{% if current_lang == "en" %} aria-current="page"{% endif %}>EN</a>
+              <span class="language-separator" aria-hidden="true">/</span>
+              <a class="language-switch{% if current_lang == "zh-CN" %} is-active{% endif %}" href="{{ base_path }}/zh/" lang="zh-CN" hreflang="zh-CN"{% if current_lang == "zh-CN" %} aria-current="page"{% endif %}>中文</a>
+              <span class="language-separator" aria-hidden="true">/</span>
+              <a class="language-switch{% if current_lang == "de" %} is-active{% endif %}" href="{{ base_path }}/de/" lang="de" hreflang="de"{% if current_lang == "de" %} aria-current="page"{% endif %}>DE</a>
             </span>
           </li>
         </ul>
@@ -45,11 +48,12 @@
 
 <script>
   (function () {
-    var languageSwitch = document.getElementById("language-switch");
     var supportedAnchors = ["#about", "#research", "#publications", "#teaching"];
 
-    if (languageSwitch && supportedAnchors.indexOf(window.location.hash) !== -1) {
-      languageSwitch.href += window.location.hash;
+    if (supportedAnchors.indexOf(window.location.hash) !== -1) {
+      document.querySelectorAll(".language-switch[href]").forEach(function (link) {
+        link.href = link.href.replace(/#.*$/, "") + window.location.hash;
+      });
     }
   }());
 </script>
