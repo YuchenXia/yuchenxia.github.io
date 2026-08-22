@@ -58,6 +58,17 @@ redirect_from:
 
 <div class="research-item">
   <div class="research-content">
+    <p>
+      <strong>LLM Agents + Digital Twins for Pharmaceutical Manufacturing — Technology Transfer Project with AstraZeneca</strong><br>
+Technical lead for a technology transfer project developing a multi-agent system to interact with high-fidelity scientific simulations for pharmaceutical process development. The agents conduct controlled simulation experiments and turn the resulting evidence into actionable process recommendations. Following the successful Phase I proof of concept, Phase II focuses on scaling the system to orchestrate additional simulation capabilities and support multi-objective optimization.
+References: <a href="https://www.ias.uni-stuttgart.de/dokumente/Taetigkeitsbericht_2025_IAS.pdf" target="_blank">[IAS Report]</a> <a href="https://www.arcweb.com/blog/accelerating-pharma-manufacturing-astrazenecas-leap-digital-twins-agentic-ai" target="_blank">[Industry News]</a>
+
+Two related papers are currently in the publication process.
+    </p>
+  </div>
+
+  
+  <div class="research-content">
     <p><strong>Towards autonomous system: flexible modular production system enhanced with large language model agents,</strong> Yuchen Xia, Methan Shenoy, Nasser Jazdi, Michael Weyrich, <em>IEEE 28th ETFA, 2023</em>,
     <a href="https://doi.org/10.1109/ETFA54631.2023.10275362" target="_blank">[IEEE published (PDF)]</a>
     <a href="https://arxiv.org/abs/2304.14721" target="_blank">[arXiv Pre-print (PDF)]</a>
