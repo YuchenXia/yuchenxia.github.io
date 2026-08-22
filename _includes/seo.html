@@ -1,155 +1,175 @@
 {% include base_path %}
 
-<title>Yuchen Xia</title>
+{% assign page_language = page.lang | default: site.locale %}
+{% assign seo_title = page.seo_title | default: "Yuchen Xia" %}
+{% assign seo_description = page.description | default: site.description %}
+{% assign seo_keywords = "Yuchen Xia, Xia Yuchen, 夏瑜辰, Stuttgart, University of Stuttgart, Universität Stuttgart, LLM agents, digital twins, industrial automation" %}
+{% assign og_locale = "en_US" %}
+{% assign person_name = "Yuchen Xia" %}
+{% assign job_title = "Postdoctoral Researcher" %}
+{% assign affiliation_name = "University of Stuttgart" %}
+{% assign breadcrumb_research = "Research" %}
+{% assign breadcrumb_publications = "Publications" %}
+
+{% if page_language contains "zh" %}
+  {% assign seo_title = page.seo_title | default: "夏瑜辰｜个人主页" %}
+  {% assign seo_description = page.description | default: "夏瑜辰的个人学术主页，研究方向包括大语言模型智能体、数字孪生与工业自动化。" %}
+  {% assign seo_keywords = "夏瑜辰, Yuchen Xia, 大语言模型, LLM智能体, 数字孪生, 工业自动化, 斯图加特大学" %}
+  {% assign og_locale = "zh_CN" %}
+  {% assign person_name = "夏瑜辰" %}
+  {% assign job_title = "博士后研究员" %}
+  {% assign affiliation_name = "斯图加特大学" %}
+  {% assign breadcrumb_research = "研究" %}
+  {% assign breadcrumb_publications = "论文" %}
+{% endif %}
+
+{% assign canonical_url = page.url | absolute_url %}
+
+<title>{{ seo_title }}</title>
 
 <!-- Meta tags -->
 <meta name="author" content="Yuchen Xia">
-<meta name="title" content="Yuchen Xia">
-<meta name="description" content="CV of Yuchen Xia. University of Stuttgart. Doctoral Research Topics: Generative AI, LLMs, Digital Twins, Industrial Automation.">
-<meta name="keywords" content="Yuchen Xia, Xia Yuchen, 夏瑜辰, Stuttgart, University of Stuttgart, Universität Stuttgart">
+<meta name="title" content="{{ seo_title | escape }}">
+<meta name="description" content="{{ seo_description | escape }}">
+<meta name="keywords" content="{{ seo_keywords | escape }}">
 <meta name="robots" content="index, follow">
-<meta name="language" content="English">
+<meta name="language" content="{{ page_language }}">
+<link rel="canonical" href="{{ canonical_url }}">
 
+{% if page.lang %}
+<link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}/">
+<link rel="alternate" hreflang="zh-CN" href="{{ site.url }}{{ site.baseurl }}/zh/">
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}/">
+{% endif %}
 
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://yuchenxia.github.io/">
-<meta property="og:title" content="Yuchen Xia">
-<meta property="og:description" content="CV of Yuchen Xia. University of Stuttgart. Doctoral Research Topics: Generative AI, LLMs, Digital Twins, Industrial Automation.">
-<meta property="og:image" content="https://yuchenxia.github.io/images/profile.png">
+<!-- Open Graph -->
+<meta property="og:type" content="profile">
+<meta property="og:url" content="{{ canonical_url }}">
+<meta property="og:title" content="{{ seo_title | escape }}">
+<meta property="og:description" content="{{ seo_description | escape }}">
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/profile.png">
 <meta property="og:site_name" content="Yuchen Xia">
+<meta property="og:locale" content="{{ og_locale }}">
+{% if page.lang == "zh-CN" %}
+<meta property="og:locale:alternate" content="en_US">
+{% elsif page.lang %}
+<meta property="og:locale:alternate" content="zh_CN">
+{% endif %}
 
 <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Yuchen Xia",
-      "givenName": "Yuchen",
-      "familyName": "Xia",
-      "alternateName": ["Xia Yuchen", "夏瑜辰"],
-      "description": "Yuchen Xia, University of Stuttgart. Doctoral Research Topics: Generative AI, LLMs, Digital Twins, Industrial Automation.",
-      "jobTitle": "Researcher", 
-      "affiliation": {
-        "@type": "CollegeOrUniversity",
-        "name": "University of Stuttgart",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Pfaffenwaldring 47",
-          "postalCode": "70550",
-          "addressLocality": "Stuttgart",
-          "addressCountry": "DE"
-        }
-      },
-      "alumniOf": [
-        {
-          "@type": "CollegeOrUniversity",
-          "name": "University of Stuttgart",
-          "sameAs": "https://www.uni-stuttgart.de/en/"
-        },
-        {
-          "@type": "CollegeOrUniversity",
-          "name": "Wuhan University",
-          "sameAs": "https://en.whu.edu.cn/"
-        }
-      ],
-      "url": "https://yuchenxia.github.io/",
-      "image": "https://yuchenxia.github.io/images/profile.png",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://yuchenxia.github.io/images/profile.png"
-      },
-      "workLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Stuttgart",
-          "addressCountry": "DE"
-        }
-      },
-      "knowsAbout": [
-        "Large Language Models",
-        "Generative AI",
-        "Digital Twins",
-        "Artificial Intelligence",
-        "Automation",
-        "Agent System",
-        "Software Engineering",
-        "Model-Driven Engineering"
-      ],
-      "sameAs": [
-        "https://scholar.google.com/citations?user=hi1srxkAAAAJ",
-        "https://orcid.org/0009-0009-6777-2404",
-        "https://www.researchgate.net/profile/Yuchen-Xia",
-        "https://github.com/yuchenxia",
-        "https://www.linkedin.com/in/xiayuchen"
-      ],
-      "award": [
-        "VDI Automation atp Award 2025 (Applying Large Language Models for Intelligent Industrial Automation)",
-        "Best Paper Award IEEE ETFA 2024 (LLM Experiments with Simulation)"
-      ],
-      "publishes": {
-        "@type": "CreativeWorkSeries",
-        "name": "Research Publications on LLMs, Digital Twins & Automation",
-        "url": "https://yuchenxia.github.io/#publications"
-      }
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ site.url }}{{ site.baseurl }}/#person",
+  "name": {{ person_name | jsonify }},
+  "givenName": "Yuchen",
+  "familyName": "Xia",
+  "alternateName": ["Yuchen Xia", "Xia Yuchen", "夏瑜辰"],
+  "description": {{ seo_description | jsonify }},
+  "jobTitle": {{ job_title | jsonify }},
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": {{ affiliation_name | jsonify }},
+    "sameAs": "https://www.uni-stuttgart.de/en/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Pfaffenwaldring 47",
+      "postalCode": "70550",
+      "addressLocality": "Stuttgart",
+      "addressCountry": "DE"
     }
-    </script>
+  },
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Stuttgart",
+      "sameAs": "https://www.uni-stuttgart.de/en/"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Wuhan University",
+      "sameAs": "https://en.whu.edu.cn/"
+    }
+  ],
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "image": "{{ site.url }}{{ site.baseurl }}/images/profile.png",
+  "workLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Stuttgart",
+      "addressCountry": "DE"
+    }
+  },
+  "knowsAbout": [
+    "Large Language Models",
+    "Generative AI",
+    "Digital Twins",
+    "Artificial Intelligence",
+    "Industrial Automation",
+    "Agent Systems",
+    "Software Engineering",
+    "Model-Driven Engineering"
+  ],
+  "sameAs": [
+    "https://scholar.google.com/citations?user=hi1srxkAAAAJ",
+    "https://orcid.org/0009-0009-6777-2404",
+    "https://www.researchgate.net/profile/Yuchen-Xia-4",
+    "https://github.com/YuchenXia",
+    "https://www.linkedin.com/in/xiayuchen"
+  ],
+  "award": [
+    "VDI Automation atp Award 2025 (Applying Large Language Models for Intelligent Industrial Automation)",
+    "Best Paper Award IEEE ETFA 2024 (LLM Experiments with Simulation)"
+  ]
+}
+</script>
 
-    <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "Yuchen Xia",
-        "alternateName": "Yuchen Xia ",
-        "url": "https://yuchenxia.github.io",
-        "description": "Personal homepage of Yuchen Xia, University of Stuttgart. Doctoral Research Topics: Generative AI, LLMs, Digital Twins, Industrial Automation.",
-        "inLanguage": "en",
-        "publisher": {
-          "@type": "Person",
-          "name": "Yuchen Xia",
-          "url": "https://yuchenxia.github.io"
-        }
-      }
-      </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "name": {{ seo_title | jsonify }},
+  "url": {{ canonical_url | jsonify }},
+  "description": {{ seo_description | jsonify }},
+  "inLanguage": {{ page_language | jsonify }},
+  "mainEntity": {
+    "@id": "{{ site.url }}{{ site.baseurl }}/#person"
+  }
+}
+</script>
 
-      <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Yuchen Xia",
-              "item": {
-                "@type": "WebPage",
-                "@id": "https://yuchenxia.github.io/"
-              }
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Research",
-              "item": {
-                "@type": "WebPage",
-                "@id": "https://yuchenxia.github.io/#research"
-              }
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "name": "Publications",
-              "item": {
-                "@type": "WebPage",
-                "@id": "https://yuchenxia.github.io/#publications"
-              }
-            }
-          ]
-        }
-        </script>
+{% if page.lang %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": {{ person_name | jsonify }},
+      "item": {{ canonical_url | jsonify }}
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ breadcrumb_research | jsonify }},
+      "item": "{{ canonical_url }}#research"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": {{ breadcrumb_publications | jsonify }},
+      "item": "{{ canonical_url }}#publications"
+    }
+  ]
+}
+</script>
+{% endif %}
 
-<link rel="icon" href="/images/favicon.ico" sizes="any">
-<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" href="{{ base_path }}/images/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32">
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TWRZ9VL8S1"></script>
@@ -157,16 +177,16 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-TWRZ9VL8S1');
 </script>
+
+<!-- Baidu Analytics -->
 <script>
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
   hm.src = "https://hm.baidu.com/hm.js?a6a90dafe0f3d07f5a0e566d28e39817";
-  var s = document.getElementsByTagName("script")[0]; 
+  var s = document.getElementsByTagName("script")[0];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
-
