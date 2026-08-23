@@ -10,7 +10,7 @@ author: de
 
 <p style="color: black; opacity: 0;">Hallo, ich bin Yuchen Xia.</p>
 
-<p>Im Mittelpunkt meiner Forschung stehen LLM-Agenten, digitale Zwillinge und autonome industrielle Automatisierungsysteme. Seit 2021 arbeite ich in diesem Forschungsfeld, habe zwei F&amp;E-Projekte zu industriellen Agentensystemen geleitet und mehrere LLM-basierte Lösungen entwickelt, die in realen industriellen Anwendungen eingesetzt werden.</p>
+<p>Meine Forschung konzentriert sich auf LLM-basierte Agentensysteme, digitale Zwillinge und autonome industrielle Automatisierungssysteme. Seit 2021 arbeite ich an der Entwicklung und Erforschung intelligenter Agentensysteme für industrielle Anwendungen. In diesem Kontext habe ich zwei F&E-Projekte technisch geleitet und mehrere LLM-basierte Lösungen entwickelt, die in realen industriellen Anwendungsszenarien zum Einsatz kommen.</p>
 
 ---
 # Akademischer Werdegang
