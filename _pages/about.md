@@ -58,8 +58,7 @@ redirect_from:
          title="University of Stuttgart on Wikipedia"
          aria-label="University of Stuttgart on Wikipedia">
          <i class="fas fa-search fa-xs" aria-hidden="true"></i>
-      </a>,
-      <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank" rel="noopener noreferrer">[Wiki]</a>, Germany, 2013–2017
+      </a>, Germany, 2013–2017
     </div>
     <div class="education-details">
       <p class="education-note">
