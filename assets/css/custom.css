@@ -10,6 +10,42 @@
     height: auto;
 }
 
+
+.education-list {
+    margin: 1rem 0;
+    padding: 0;
+    list-style: none;
+}
+
+.education-entry {
+    margin-bottom: 1.15rem;
+    padding-left: 0.9rem;
+    border-left: 2px solid rgba(127, 127, 127, 0.35);
+}
+
+.education-entry:last-child {
+    margin-bottom: 0;
+}
+
+.education-heading {
+    line-height: 1.5;
+}
+
+.education-details {
+    margin-top: 0.45rem;
+    font-size: 0.9em;
+    line-height: 1.55;
+    opacity: 0.8;
+}
+
+.education-details p {
+    margin: 0.35rem 0;
+}
+
+.education-note {
+    font-style: italic;
+}
+
 .language-switch {
     font-weight: 600;
     white-space: nowrap;
