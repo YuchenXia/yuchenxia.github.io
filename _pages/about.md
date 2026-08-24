@@ -61,7 +61,7 @@ redirect_from:
     </div>
     <div class="education-details">
       <p class="education-note">
-        Bilateral double bachelor’s degree program between Wuhan University and the University of Stuttgart;
+        Bilateral double bachelor’s degree program between Wuhan University and the University of Stuttgart.
       </p>
     </div>
   </li>
@@ -80,7 +80,7 @@ redirect_from:
     </div>
     <div class="education-details">
       <p class="education-note">
-        Bilateral double bachelor’s degree program between Wuhan University and the University of Stuttgart;
+        Bilateral double bachelor’s degree program between Wuhan University and the University of Stuttgart.
       </p>
     </div>
   </li>
