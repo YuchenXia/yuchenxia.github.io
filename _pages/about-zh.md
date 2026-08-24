@@ -27,7 +27,7 @@ author: zh
     <div class="education-details">
       <p class="education-note">
         获得德国经济基金会（Stiftung der Deutschen Wirtschaft，sdw）博士奖学金，
-        由德国联邦教育与研究部（BMBF，现为 BMFTR）的联邦资金资助；
+        由德国联邦教育与研究部（BMBF，现为 BMFTR）资助；
         后续博士阶段资助由斯图加特大学卓越先进制造工程研究生院（GSaME）接续。
       </p>
     </div>
