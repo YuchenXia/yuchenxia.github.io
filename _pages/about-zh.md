@@ -41,7 +41,7 @@ author: zh
 
   <li class="education-entry">
     <div class="education-heading">
-      <strong>工学学士，汽车工程</strong>，斯图加特大学<a href="https://en.wikipedia.org/wiki/University_of_Stuttgart"
+      <strong>工学学士，车辆制造工程</strong>，斯图加特大学<a href="https://en.wikipedia.org/wiki/University_of_Stuttgart"
          target="_blank"
          rel="noopener noreferrer"
          title="斯图加特大学的维基百科页面"
