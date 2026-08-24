@@ -18,12 +18,77 @@ redirect_from:
 ---
 # Academic Background
 
+<ul class="education-list">
+  <li class="education-entry">
+    <div class="education-heading">
+      <strong>Ph.D.</strong>, Institute for Industrial Automation and Software Engineering,
+      University of Stuttgart, Germany, 2020–2026
+    </div>
+
+    <div class="education-details">
+      <p>
+        <strong>Dissertation:</strong>
+        <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em>
+        <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[Dissertation]</a>
+      </p>
+
+      <p>
+        <strong>Ph.D. defense recording:</strong>
+        <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank" rel="noopener noreferrer">[YouTube]</a>
+        <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank" rel="noopener noreferrer">[Bilibili — 13K+ views within four months]</a>
+      </p>
+
+      <p>
+        Recipient of a doctoral scholarship from the
+        <strong>Stiftung der Deutschen Wirtschaft (sdw)</strong>,
+        financed with funds provided by the
+        <strong>German Federal Ministry of Education and Research (BMBF; now BMFTR)</strong>,
+        with subsequent doctoral funding from the
+        <strong>Graduate School of Excellence advanced Manufacturing Engineering (GSaME) at the University of Stuttgart</strong>.
+      </p>
+    </div>
+  </li>
+
+  <li class="education-entry">
+    <div class="education-heading">
+      <strong>M.Sc., Mechatronics and Autonomous Systems</strong>,
+      University of Stuttgart, Germany, 2017–2019
+    </div>
+  </li>
+
+  <li class="education-entry">
+    <div class="education-heading">
+      <strong>B.Sc., Automotive Engineering</strong>,
+      University of Stuttgart, Germany, 2013–2017
+    </div>
+    <div class="education-details">
+      <p class="education-note">
+        <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank" rel="noopener noreferrer">[Wikipedia]</a>
+        · Dual-degree program
+      </p>
+    </div>
+  </li>
+
+  <li class="education-entry">
+    <div class="education-heading">
+      <strong>B.Eng., Mechanical Engineering and Automation</strong>,
+      Wuhan University, China, 2011–2017
+    </div>
+    <div class="education-details">
+      <p class="education-note">
+        <a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank" rel="noopener noreferrer">[Wikipedia]</a>
+        · Dual-degree program
+      </p>
+    </div>
+  </li>
+</ul>
+
 * **Ph.D.**, Institute for Industrial Automation and Software Engineering, University of Stuttgart, Germany, 2020–2026
   
   **Dissertation:** *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems* <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[Dissertation]</a>
   
-  Ph.D. Exam Recording Online: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[Bilibili]</a>
-  
+  Ph.D. Exam Recording Online: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[Bilibili] (13K Views within 4 Months)</a>
+
   **Funding:** Full-Scholarship from Stiftung der Deutschen Wirtschaft and the Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME) of University of Stuttgart.
 
 * **M.Sc., Mechatronics and Autonomous Systems**, University of Stuttgart, Germany (2017-2019)  
