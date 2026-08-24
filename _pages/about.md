@@ -33,7 +33,7 @@ redirect_from:
     <div class="education-details">
       <p class="education-note">
           Doctoral scholarship from the Stiftung der Deutschen Wirtschaft (sdw),
-          financed with federal funds from the German Federal Ministry of
+          financed by the German Federal Ministry of
           Education and Research (BMBF; now BMFTR), with subsequent doctoral
           funding from the Graduate School of Excellence advanced Manufacturing
           Engineering (GSaME) at the University of Stuttgart.
