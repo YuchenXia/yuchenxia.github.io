@@ -21,7 +21,7 @@ redirect_from:
 <ul class="education-list">
   <li class="education-entry">
     <div class="education-heading">
-      <strong>Ph.D. (Dr.-Ing.)</strong>, Institute for Industrial Automation and Software Engineering <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank" rel="noopener noreferrer">[News]</a>,
+      <strong>Ph.D. (Dr.-Ing.)</strong>, Institute for Industrial Automation and Software Engineering,
       University of Stuttgart, Germany, 2020–2026
       <br>
       <p class="education-detail-row">
