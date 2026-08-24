@@ -21,30 +21,24 @@ redirect_from:
 <ul class="education-list">
   <li class="education-entry">
     <div class="education-heading">
-      <strong>Ph.D.</strong>, Institute for Industrial Automation and Software Engineering,
+      <strong>Ph.D. (Dr.-Ing.)</strong>, Institute for Industrial Automation and Software Engineering,
       University of Stuttgart, Germany, 2020–2026
+      <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank" rel="noopener noreferrer">News</a><br>
     </div>
 
     <div class="education-details">
-      <p>
-        <strong>Dissertation:</strong>
+      <p class="education-detail-row">
+        <span class="education-label">Dissertation</span>
         <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em>
         <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[Dissertation]</a>
       </p>
-
-      <p>
-        Ph.D. defense recording:
-        <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank" rel="noopener noreferrer">[YouTube]</a>
-        <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank" rel="noopener noreferrer">[Bilibili]</a> (13K+ views)
-      </p>
-
-      <p>
-        Recipient of a doctoral scholarship from the
-        Stiftung der Deutschen Wirtschaft (sdw),
-        financed with funds provided by the
-        German Federal Ministry of Education and Research (BMBF; now BMFTR),
-        with subsequent doctoral funding from the
-        Graduate School of Excellence advanced Manufacturing Engineering (GSaME) at the University of Stuttgart.
+    
+      <p class="education-funding">
+        Doctoral scholarship from the Stiftung der Deutschen Wirtschaft (sdw),
+        financed with federal funds from the German Federal Ministry of
+        Education and Research (BMBF; now BMFTR), with subsequent doctoral
+        funding from the Graduate School of Excellence advanced Manufacturing
+        Engineering (GSaME) at the University of Stuttgart.
       </p>
     </div>
   </li>
@@ -88,8 +82,8 @@ redirect_from:
 
 <div class="research-item">
   <div class="research-content">
-    <strong>Ph.D. with magna cum laude</strong> at University of Stuttgart, March 23, 2026, Stuttgart Germany.  <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">News</a><br>
-    <strong>Defense Presentation Recording Online:</strong> <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 on Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 on Bilibili]</a>
+    <strong>Ph.D. with magna cum laude</strong> at Institute for Industrial Automation and Software Engineering, University of Stuttgart, March 23, 2026, Stuttgart Germany.  <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">News</a><br>
+    Exam Presentation Recording Online: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 on Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 13K+ views on Bilibili]</a>
     <p>Dissertation: <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank"> [🎓📑 Dissertation PDF download] </a> </p>
     <img src="/images/phd_exam.jpg" alt="phd_exam">
   </div>
