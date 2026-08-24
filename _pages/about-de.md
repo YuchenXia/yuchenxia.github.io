@@ -10,34 +10,87 @@ author: de
 
 <p style="color: black; opacity: 0;">Hallo, ich bin Yuchen Xia.</p>
 
-<p>Meine Forschung konzentriert sich auf LLM-basierte Agentensysteme, digitale Zwillinge und autonome industrielle Automatisierungssysteme. Seit 2021 arbeite ich an der Entwicklung und Erforschung intelligenter Agentensysteme für industrielle Anwendungen. In diesem Kontext habe ich zwei F&E-Projekte technisch geleitet und mehrere LLM-basierte Lösungen entwickelt, die in realen industriellen Anwendungsszenarien zum Einsatz kommen.</p>
+<p>Im Mittelpunkt meiner Forschung stehen LLM-Agenten, digitale Zwillinge und autonome industrielle Automatisierungsysteme. Seit 2021 arbeite ich in diesem Forschungsfeld, habe zwei F&amp;E-Projekte zu industriellen Agentensystemen geleitet und mehrere LLM-basierte Lösungen entwickelt, die in realen industriellen Anwendungen eingesetzt werden.</p>
 
 ---
 # Akademischer Werdegang
 
-* **Promotion (Dr.-Ing.)**, Institut für Automatisierungstechnik und Softwaresysteme, Universität Stuttgart, Deutschland, 2020–2026
+<ul class="education-list">
+  <li class="education-entry">
+    <div class="education-heading">
+      <strong>Promotion (Dr.-Ing.)</strong>, Institut für Automatisierungstechnik und Softwaresysteme,
+      Universität Stuttgart, Deutschland, 2020–2026
+      <br>
+      <p class="education-detail-row">
+        <strong>Dissertation:</strong>
+        <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em>
+        <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[PDF]</a>
+      </p>
+    </div>
+    <div class="education-details">
+      <p class="education-note">
+        Promotionsstipendium der Stiftung der Deutschen Wirtschaft (sdw),
+        finanziert aus Bundesmitteln des Bundesministeriums für Bildung und
+        Forschung (BMBF; heute BMFTR), mit anschließender Promotionsförderung
+        durch die Graduate School of Excellence advanced Manufacturing Engineering
+        (GSaME) an der Universität Stuttgart.
+      </p>
+    </div>
+  </li>
 
-  **Dissertation:** *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems* <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[Dissertation]</a>
+  <li class="education-entry">
+    <div class="education-heading">
+      <strong>M.Sc., Mechatronik und autonome Systeme</strong>,
+      Universität Stuttgart, Deutschland, 2017–2019
+    </div>
+  </li>
 
-  Aufzeichnung der Disputation: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[YouTube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[Bilibili]</a>
+  <li class="education-entry">
+    <div class="education-heading">
+      <strong>B.Sc., Fahrzeugtechnik</strong>, Universität Stuttgart<a href="https://de.wikipedia.org/wiki/Universit%C3%A4t_Stuttgart"
+         target="_blank"
+         rel="noopener noreferrer"
+         title="Universität Stuttgart auf Wikipedia"
+         aria-label="Universität Stuttgart auf Wikipedia">
+         <i class="fas fa-search fa-xs" aria-hidden="true"></i>
+      </a>, Deutschland, 2013–2017
+    </div>
+    <div class="education-details">
+      <p class="education-note">
+        Doppelabschlussprogramm
+      </p>
+    </div>
+  </li>
 
-  **Förderung:** Vollstipendium der Stiftung der Deutschen Wirtschaft und der Graduate School of Excellence in Advanced Manufacturing Engineering (GSaME) der Universität Stuttgart.
-
-* **M.Sc., Mechatronik und autonome Systeme**, Universität Stuttgart, Deutschland (2017–2019)
-* **B.Sc., Fahrzeugtechnik**, Universität Stuttgart <a href="https://de.wikipedia.org/wiki/Universit%C3%A4t_Stuttgart" target="_blank">[Wikipedia]</a>, Deutschland (2013–2017)
-  *Doppelabschlussprogramm*
-* **B.Eng., Maschinenbau und Automatisierung**, Universität Wuhan <a href="https://de.wikipedia.org/wiki/Universit%C3%A4t_Wuhan" target="_blank">[Wikipedia]</a>, China (2011–2017)
-  *Doppelabschlussprogramm*
+  <li class="education-entry">
+    <div class="education-heading">
+      <strong>B.Eng., Maschinenbau und Automatisierung</strong>, Universität Wuhan<a href="https://de.wikipedia.org/wiki/Universit%C3%A4t_Wuhan"
+         target="_blank"
+         rel="noopener noreferrer"
+         title="Universität Wuhan auf Wikipedia"
+         aria-label="Universität Wuhan auf Wikipedia">
+         <i class="fas fa-search fa-xs" aria-hidden="true"></i>
+      </a>, China, 2011–2017
+    </div>
+    <div class="education-details">
+      <p class="education-note">
+        Doppelabschlussprogramm
+      </p>
+    </div>
+  </li>
+</ul>
 
 ---
 # Auszeichnungen und Anerkennungen
 
 <div class="research-item">
   <div class="research-content">
-    <strong>Promotion mit magna cum laude</strong> an der Universität Stuttgart am 23. März 2026 in Stuttgart. <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">[Institutsmeldung]</a><br>
-    <strong>Aufzeichnung der Disputation:</strong> <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 YouTube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 Bilibili]</a>
-    <p>Dissertation: <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[🎓📑 Dissertation als PDF]</a></p>
-    <img src="/images/phd_exam.jpg" alt="Disputation">
+    <strong>Promotion mit magna cum laude</strong> am Institut für Automatisierungstechnik und Softwaresysteme der Universität Stuttgart am 23. März 2026 in Stuttgart. <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">[Institutsmeldung]</a> <br>
+    <div>
+      <p><strong>Dissertation:</strong> <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[🎓📑 PDF]</a></p>
+      <p>Aufzeichnung der Disputation: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 YouTube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 über 13.000 Aufrufe auf Bilibili (哔哩哔哩)]</a></p>
+      <img src="/images/phd_exam.jpg" alt="Disputation">
+    </div>
   </div>
 </div>
 
