@@ -68,7 +68,7 @@ redirect_from:
 
   <li class="education-entry">
     <div class="education-heading">
-      <strong>B.Eng., Mechanical Engineering and Automation</strong>, Wuhan University,
+      <strong>B.Eng., Mechanical Engineering and Automation</strong>, Wuhan University
       <a href="https://en.wikipedia.org/wiki/Wuhan_University"
          target="_blank"
          rel="noopener noreferrer"
