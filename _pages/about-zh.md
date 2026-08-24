@@ -51,7 +51,7 @@ author: zh
     </div>
     <div class="education-details">
       <p class="education-note">
-        武汉大学与斯图加特大学合作开展的 1+1+4 双学士学位项目；
+        武汉大学与斯图加特大学合作开展的 1+1+4 双学士学位项目.
       </p>
     </div>
   </li>
@@ -68,7 +68,7 @@ author: zh
     </div>
     <div class="education-details">
       <p class="education-note">
-        武汉大学与斯图加特大学合作开展的 1+1+4 双学士学位项目；
+        武汉大学与斯图加特大学合作开展的 1+1+4 双学士学位项目.
       </p>
     </div>
   </li>
