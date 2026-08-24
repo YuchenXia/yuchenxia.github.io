@@ -57,7 +57,7 @@ author: de
     </div>
     <div class="education-details">
       <p class="education-note">
-        Doppelabschlussprogramm
+        Bilaterales Bachelor-Doppelabschlussprogramm zwischen der Universität Wuhan und der Universität Stuttgart.
       </p>
     </div>
   </li>
@@ -74,7 +74,7 @@ author: de
     </div>
     <div class="education-details">
       <p class="education-note">
-        Doppelabschlussprogramm
+        Bilaterales Bachelor-Doppelabschlussprogramm zwischen der Universität Wuhan und der Universität Stuttgart.
       </p>
     </div>
   </li>
