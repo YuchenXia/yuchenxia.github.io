@@ -21,18 +21,17 @@ redirect_from:
 <ul class="education-list">
   <li class="education-entry">
     <div class="education-heading">
-      <strong>Ph.D. (Dr.-Ing.)</strong>, Institute for Industrial Automation and Software Engineering,
+      <strong>Ph.D. (Dr.-Ing.)</strong>, Institute for Industrial Automation and Software Engineering <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank" rel="noopener noreferrer">[News]</a>,
       University of Stuttgart, Germany, 2020–2026
-      <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank" rel="noopener noreferrer">[Event Report]</a><br>
-    </div>
-
-    <div class="education-details">
+      <br>
       <p class="education-detail-row">
         <strong>Dissertation: </strong>
         <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em>
         <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[PDF]</a>
       </p>
-    
+    </div>
+
+    <div class="education-details">
       <p class="education-note">
         Doctoral scholarship from the Stiftung der Deutschen Wirtschaft (sdw),
         financed with federal funds from the German Federal Ministry of
@@ -53,7 +52,14 @@ redirect_from:
   <li class="education-entry">
     <div class="education-heading">
       <strong>B.Sc., Automotive Engineering</strong>,
-      University of Stuttgart <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank" rel="noopener noreferrer">[Wiki]</a>, Germany, 2013–2017
+      University of Stuttgart<a href="https://en.wikipedia.org/wiki/University_of_Stuttgart"
+         target="_blank"
+         rel="noopener noreferrer"
+         title="University of Stuttgart on Wikipedia"
+         aria-label="University of Stuttgart on Wikipedia">
+         <i class="fas fa-search fa-xs" aria-hidden="true"></i>
+      </a>,
+      <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank" rel="noopener noreferrer">[Wiki]</a>, Germany, 2013–2017
     </div>
     <div class="education-details">
       <p class="education-note">
@@ -64,13 +70,13 @@ redirect_from:
 
   <li class="education-entry">
     <div class="education-heading">
-      <strong>B.Eng., Mechanical Engineering and Automation</strong>,
+      <strong>B.Eng., Mechanical Engineering and Automation</strong>, Wuhan University,
       <a href="https://en.wikipedia.org/wiki/Wuhan_University"
          target="_blank"
          rel="noopener noreferrer"
          title="Wuhan University on Wikipedia"
          aria-label="Wuhan University on Wikipedia">
-        Wuhan University<i class="fas fa-search fa-xs" aria-hidden="true"></i>
+         <i class="fas fa-search fa-xs" aria-hidden="true"></i>
       </a>,
       China, 2011–2017
     </div>
