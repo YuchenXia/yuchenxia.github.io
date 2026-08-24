@@ -13,29 +13,78 @@ author: zh
 ---
 # 学术背景
 
-* **博士**，德国斯图加特大学工业自动化与软件工程研究所，2020–2026
+<ul class="education-list">
+  <li class="education-entry">
+    <div class="education-heading">
+      <strong>博士（Dr.-Ing.）</strong>，斯图加特大学工业自动化与软件工程研究所，德国，2020–2026
+      <br>
+      <p class="education-detail-row">
+        <strong>博士论文：</strong>
+        <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em>
+        <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[PDF]</a>
+      </p>
+    </div>
+    <div class="education-details">
+      <p class="education-note">
+        获得德国经济基金会（Stiftung der Deutschen Wirtschaft，sdw）博士奖学金，
+        由德国联邦教育与研究部（BMBF，现为 BMFTR）的联邦资金资助；
+        后续博士阶段资助由斯图加特大学卓越先进制造工程研究生院（GSaME）接续。
+      </p>
+    </div>
+  </li>
 
-  **博士论文**: *Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems* <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[论文]</a>
+  <li class="education-entry">
+    <div class="education-heading">
+      <strong>工学硕士，机电一体化与自主系统</strong>，斯图加特大学，德国，2017–2019
+    </div>
+  </li>
 
-  博士答辩录像：<a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[YouTube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[哔哩哔哩]</a>
+  <li class="education-entry">
+    <div class="education-heading">
+      <strong>工学学士，汽车工程</strong>，斯图加特大学<a href="https://en.wikipedia.org/wiki/University_of_Stuttgart"
+         target="_blank"
+         rel="noopener noreferrer"
+         title="斯图加特大学的维基百科页面"
+         aria-label="斯图加特大学的维基百科页面">
+         <i class="fas fa-search fa-xs" aria-hidden="true"></i>
+      </a>，德国，2013–2017
+    </div>
+    <div class="education-details">
+      <p class="education-note">
+        双学位项目
+      </p>
+    </div>
+  </li>
 
-  **资助**： 德国经济基金会（Stiftung der Deutschen Wirtschaft）与斯图加特大学卓越先进制造工程研究生院（GSaME）全额奖学金资助。
-
-* **工学硕士，机电一体化与自主系统**，德国斯图加特大学（2017–2019）
-* **工学学士，汽车工程**，德国斯图加特大学 <a href="https://en.wikipedia.org/wiki/University_of_Stuttgart" target="_blank">[维基百科]</a>（2013–2017）
-  *双学位项目*
-* **工学学士，机械设计制造及其自动化**，武汉大学 <a href="https://en.wikipedia.org/wiki/Wuhan_University" target="_blank">[维基百科]</a>（2011–2017）
-  *双学位项目*
+  <li class="education-entry">
+    <div class="education-heading">
+      <strong>工学学士，机械设计制造及其自动化</strong>，武汉大学<a href="https://en.wikipedia.org/wiki/Wuhan_University"
+         target="_blank"
+         rel="noopener noreferrer"
+         title="武汉大学的维基百科页面"
+         aria-label="武汉大学的维基百科页面">
+         <i class="fas fa-search fa-xs" aria-hidden="true"></i>
+      </a>，中国，2011–2017
+    </div>
+    <div class="education-details">
+      <p class="education-note">
+        双学位项目
+      </p>
+    </div>
+  </li>
+</ul>
 
 ---
 # 学术界与工业界认可
 
 <div class="research-item">
   <div class="research-content">
-    2026 年 3 月 23 日于德国斯图加特大学<strong>以 magna cum laude（荣誉优等毕业）成绩获得博士学位</strong>。<a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">[学院新闻]</a><br>
-    <strong>博士答辩录像：</strong> <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 YouTube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 哔哩哔哩]</a>
-    <p>博士论文：<em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[🎓📑 论文]</a></p>
-    <img src="/images/phd_exam.jpg" alt="答辩">
+    2026 年 3 月 23 日于德国斯图加特大学工业自动化与软件工程研究所<strong>以 magna cum laude（荣誉优等毕业）成绩获得博士学位</strong>。<a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">[学院新闻]</a> <br>
+    <div>
+      <p><strong>博士论文：</strong><em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[🎓📑 PDF]</a></p>
+      <p>博士答辩报告录像：<a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 YouTube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 哔哩哔哩（1.3 万+播放量）]</a></p>
+      <img src="/images/phd_exam.jpg" alt="博士答辩">
+    </div>
   </div>
 </div>
 
@@ -64,7 +113,7 @@ author: zh
     <p>
       在第一阶段概念验证成功的基础上，第二阶段重点通过模型编排扩展系统能力，使其能够解决更复杂的任务，并实现多目标优化的自动化。
     </p>
-
+    
     <p>
       参考资料：
       <a href="https://www.ias.uni-stuttgart.de/dokumente/Taetigkeitsbericht_2025_IAS.pdf" target="_blank">[IAS 年度报告]</a>
