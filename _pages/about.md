@@ -30,13 +30,15 @@ redirect_from:
         <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[PDF]</a>
       </p>
     </div>
-    <p class="education-note">
-        Doctoral scholarship from the Stiftung der Deutschen Wirtschaft (sdw),
-        financed with federal funds from the German Federal Ministry of
-        Education and Research (BMBF; now BMFTR), with subsequent doctoral
-        funding from the Graduate School of Excellence advanced Manufacturing
-        Engineering (GSaME) at the University of Stuttgart.
-    </p>
+    <div class="education-details">
+      <p class="education-note">
+          Doctoral scholarship from the Stiftung der Deutschen Wirtschaft (sdw),
+          financed with federal funds from the German Federal Ministry of
+          Education and Research (BMBF; now BMFTR), with subsequent doctoral
+          funding from the Graduate School of Excellence advanced Manufacturing
+          Engineering (GSaME) at the University of Stuttgart.
+      </p>
+    </div>
   </li>
 
   <li class="education-entry">
