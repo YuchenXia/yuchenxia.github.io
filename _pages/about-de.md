@@ -30,8 +30,8 @@ author: de
     <div class="education-details">
       <p class="education-note">
         Promotionsstipendium der Stiftung der Deutschen Wirtschaft (sdw),
-        finanziert aus Bundesmitteln des Bundesministeriums für Bildung und
-        Forschung (BMBF; heute BMFTR), mit anschließender Promotionsförderung
+        gefördert durch das Bundesministerium für Bildung und Forschung
+        (BMBF; heute BMFTR), mit anschließender Promotionsförderung
         durch die Graduate School of Excellence advanced Manufacturing Engineering
         (GSaME) an der Universität Stuttgart.
       </p>
