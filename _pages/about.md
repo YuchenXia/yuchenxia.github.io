@@ -134,7 +134,7 @@ redirect_from:
   </div>
 
   <div class="research-image">
-    <p>Two related papers are currently in the publication process.</p>
+    <p>Two related papers are currently in publication process.</p>
     <img src="/images/research/agent_simulation.svg" alt="agent_simulation.svg">
   </div>
 </div>
