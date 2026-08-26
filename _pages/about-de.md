@@ -250,9 +250,9 @@ author: de
 
 | Titel | Jahr | Link |
 |---|---:|---|
-| Simulation-Integrated LLM-Agent System for Computation Orchestration and Parameter Optimisation in Process Engineering | 2026 | in Begutachtung |
+| Simulation-Integrated LLM-Agent System for Computation Orchestration and Parameter Optimisation in Process Engineering | 2026 | under Review |
 | Ph.D. Thesis: Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems | 2026 | <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">📑 Dissertation als PDF</a><br><a href="/files/01_phd_thesis_integrating_llm_agents_digital_twins.bib" target="_blank">🔖 BibTeX</a> |
-| LLM Agents Perform Controlled Experiments Using Simulation Models | 2026 | IEEE ETFA, in Begutachtung |
+| LLM Agents Perform Controlled Experiments Using Simulation Models| 2026 |<a href="https://arxiv.org/abs/2608.23622" target="_blank">📑Paper preprint</a>|
 | An Architecture for Integrating Large Language Models with Digital Twins and Automation Systems | 2025 | <a href="/files/architecture_for_integrating_large_language_models.pdf" target="_blank">📑 Preprint</a><br><a href="https://ieeexplore.ieee.org/document/11205636/" target="_blank">📑 IEEE-Beitrag</a><br><a href="/files/02_architecture_llm_digital_twins_automation_systems.bib" target="_blank">🔖 BibTeX</a> |
 | Control Industrial Automation Systems with Large Language Models | 2025 | <a href="https://arxiv.org/abs/2409.18009" target="_blank">📑 arXiv-Beitrag</a><br><a href="https://ieeexplore.ieee.org/abstract/document/11205539" target="_blank">📑 IEEE-Beitrag</a><br><a href="/files/03_control_industrial_automation_llm_agents.bib" target="_blank">🔖 BibTeX</a> |
 | Applying Large Language Models for Intelligent Industrial Automation — 🏆 **atp award 2024, VDI Automation (1. Juli 2025)** | 2024 | <a href="https://atpinfo.de/wp-content/uploads/2025/04/xia.pdf" target="_blank">📑 Beitrag</a><br><a href="/files/04_applying_llms_intelligent_industrial_automation.bib" target="_blank">🔖 BibTeX</a> |
