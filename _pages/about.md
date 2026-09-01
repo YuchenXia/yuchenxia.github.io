@@ -94,7 +94,14 @@ redirect_from:
     <strong>Ph.D. with magna cum laude</strong> at Institute for Industrial Automation and Software Engineering, University of Stuttgart, March 23, 2026, Stuttgart Germany.  <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">[Event News]</a> <br>
     <div>
       <p><strong>Dissertation:</strong> <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank"> [🎓📑 PDF] </a> </p>
-      <p>Exam Presentation Recording Online: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 Youtube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 13K+ views on Bilibili (哔哩哔哩)]</a> </p>
+      <p>
+        The PhD Exam Presentation Recording is available online:
+        the recording has received over 13K views on
+        <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">🎬 Bilibili (哔哩哔哩)</a>,
+        a major Chinese video platform.
+        It is also available on
+        <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">🎬 YouTube</a>.
+      </p>
       <img src="/images/phd_exam.jpg" alt="phd_exam">
     </div>  
   </div>
