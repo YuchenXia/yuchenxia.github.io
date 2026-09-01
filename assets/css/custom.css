@@ -49,6 +49,13 @@
     font-style: italic;
 }
 
+.research-note {
+    margin: 0.5rem 0;
+    color: var(--global-text-color-light);
+    font-size: 0.86em;
+    line-height: 1.55;
+}
+
 .language-switch {
     font-weight: 600;
     white-space: nowrap;
