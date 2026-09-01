@@ -88,7 +88,13 @@ author: de
     <strong>Promotion mit magna cum laude</strong> am Institut für Automatisierungstechnik und Softwaresysteme der Universität Stuttgart am 23. März 2026 in Stuttgart. <a href="https://www.ias.uni-stuttgart.de/aktuelles/news/Promotionspruefung-von-Herrn-Dr.-Ing.-Yuchen-Xia/" target="_blank">[Institutsmeldung]</a> <br>
     <div>
       <p><strong>Dissertation:</strong> <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank">[🎓📑 PDF]</a></p>
-      <p>Aufzeichnung der Disputation: <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">[🎬 YouTube]</a> <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">[🎬 über 13.000 Aufrufe auf Bilibili (哔哩哔哩)]</a></p>
+      <p class="research-note">
+        Die Aufzeichnung des PrüfungsVortrags ist online verfügbar:
+        Auf <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">🎬 Bilibili (哔哩哔哩)</a>,
+        einer bedeutenden chinesischen Videoplattform, wurde sie mehr als 13.000-mal aufgerufen.
+        Sie ist außerdem auf
+        <a href="https://youtu.be/Mhd9LiV5TKE" target="_blank">🎬 YouTube</a> verfügbar.
+      </p>
       <img src="/images/phd_exam.jpg" alt="Disputation">
     </div>
   </div>
