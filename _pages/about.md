@@ -95,7 +95,7 @@ redirect_from:
     <div>
       <p><strong>Dissertation:</strong> <em>Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems</em> <a href="/files/Dissertation_Online_LLM_Agents_Autonomous_Systems_Yuchen_Xia.pdf" target="_blank"> [🎓📑 PDF] </a> </p>
       <p class="research-note">
-        The PhD Exam Presentation Recording is available online:
+        The Exam Presentation is available online:
         the recording has received over 13K views on
         <a href="https://www.bilibili.com/video/BV1XdonB9EfA/" target="_blank">🎬 Bilibili (哔哩哔哩)</a>,
         a major Chinese video platform.
