@@ -137,6 +137,7 @@ author: de
   <div class="research-image">
     <p>Zwei zugehörige Beiträge befinden sich derzeit im Publikationsprozess.</p>
     <img src="/images/research/agent_simulation.svg" alt="Agentensystem für Simulationsexperimente">
+    <img src="/images/research/simulation-integrated_agent_system_1280x720_3fps.gif" alt="Simulation-integrated agent system">
   </div>
 </div>
 
