@@ -143,6 +143,7 @@ redirect_from:
   <div class="research-image">
     <p>Two related papers are currently in publication process.</p>
     <img src="/images/research/agent_simulation.svg" alt="agent_simulation.svg">
+    <img src="/images/research/simulation-integrated_agent_system_1280x720_3fps.gif" alt="Simulation-integrated agent system">
   </div>
 </div>
 
