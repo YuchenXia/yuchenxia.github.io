@@ -124,6 +124,9 @@ author: zh
   <div class="research-image">
     <p>两篇相关论文目前正在发表流程中。</p>
     <img src="/images/research/agent_simulation.svg" alt="智能体仿真实验系统">
+    <img src="/images/research/simulation-integrated_agent_system_1280x720_3fps.gif" alt="Simulation-integrated agent system">
+  </div>
+</div>
   </div>
 </div>
 
