@@ -87,7 +87,15 @@ redirect_from:
 </ul>
 
 ---
-# Acknowledgements
+# New events
+
+<div class="research-item">
+  <strong>Presentation to investors and audiences at Station F</strong>, Paris, France<br>
+  <p>
+    <a href="https://paris2026.gosim.org/" target="_blank">[GoSIM 2026]</a>
+  </p>
+  <img src="/images/gosim2026.jpg" alt="Presentation at GoSIM 2026, Station F, Paris">
+</div>
 
 <div class="research-item">
   <div class="research-content">
